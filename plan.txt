@@ -15,8 +15,9 @@ Introduction generale (Problematique et objectif)
 1. Introduction
 2. L'histoire de developpment web
 3. Technology des composants
-  3.1. Definition
-  3.2. Liste des framework
+  3.1. Definition poc
+  3.2. contrainte de poc
+  3.3. Modele à composants et liste des framework
 4. Javascript
   4.1. Definition
   4.2. Bibliotheque et framework
