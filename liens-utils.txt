@@ -1,2 +1,3 @@
 https://www.kofi-group.com/next-js-and-7-things-you-need-to-know-about-it-in-2021/
 https://pagepro.co/blog/pros-and-cons-of-nextjs/
+https://pagepro.co/blog/what-is-nextjs/
