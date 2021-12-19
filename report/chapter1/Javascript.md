@@ -4,7 +4,7 @@
     <!-- [[{ Javascript }]] -->
     <!-- [[{ Definition }]] -->
 
-JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, JavaScript is part of the triad of technologies that all Web developers must learn: HTML to specify the content of web pages, CSS to specify the presentation of web pages and JavaScript to specify the behaviour of web pages [1], JavaScript interacts with HTML code and makes Web pages more active. [2]
+JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, JavaScript is part of the triad of technologies that all Web developers must learn: HTML to specify the content of web pages, CSS to specify the presentation of web pages and JavaScript to specify the behaviour of web pages [2], JavaScript interacts with HTML code and makes Web pages more active. [3]
 
     <!-- [[{ Libraries and frameworks }]] -->
 
@@ -19,9 +19,9 @@ These are some of the most popular libraries:
 
 React is a JavaScript library created in 2011 by Facebook that specializes in helping developers build user interfaces, or UIs. In terms of websites and web applications, ReactJS tries to solve the problem from the View layer. It can very well be defined and used as the V in any of the MVC frameworks. It's not opinionated about how it should be used. It creates abstract representations of views. It breaks down parts of the view in the Components. These components encompass both the logic to handle the display of view and the view itself. It can contain data that it uses to render the state of the app.
 
-React is founded on the idea that DOM manipulation is an expensive operation and should be minimized. It also recognizes that optimizing DOM manipulation by hand will result in a lot of boilerplate code, which is error-prone, boring, and repetitive. React solves this by giving the developer a virtual DOM to render to instead of the actual DOM. It finds difference between the real DOM and virtual DOM and conducts the minimum number of DOM operations required to achieve the new state. [3]
+React is founded on the idea that DOM manipulation is an expensive operation and should be minimized. It also recognizes that optimizing DOM manipulation by hand will result in a lot of boilerplate code, which is error-prone, boring, and repetitive. React solves this by giving the developer a virtual DOM to render to instead of the actual DOM. It finds difference between the real DOM and virtual DOM and conducts the minimum number of DOM operations required to achieve the new state. [4]
 
     <!-- [[{ Citations }]] -->
-#1 Flanagan, David. JavaScript — The definitive guide (6 ed.). p. 1.
-#2 Paulson, Linda Dailey. "Building rich web applications with Ajax." Computer 38.10 (2005): 14-17.
-#3 Vipul, A. M., and Prathamesh Sonpatki. ReactJS by Example-Building Modern Web Applications with React. Packt Publishing Ltd, 2016. 
+#2 Flanagan, David. JavaScript — The definitive guide (6 ed.). p. 1.
+#3 Paulson, Linda Dailey. "Building rich web applications with Ajax." Computer 38.10 (2005): 14-17.
+#4 Vipul, A. M., and Prathamesh Sonpatki. ReactJS by Example-Building Modern Web Applications with React. Packt Publishing Ltd, 2016. 
