@@ -60,7 +60,9 @@ MVC -> Model View Controller
 DOM -> Document Object Model
 
     <!-- [[{ NextJS }]] -->
+
     <!-- [[{ Avantages }]] -->
+
 * Courbe d’apprentissage en douceur
 * Standardisation
 * Support prêt à l’emploi
@@ -77,13 +79,14 @@ SSR -> Server Side Rendering
 SSG -> Static Site Generating
 
     <!-- [[{ Inconvénients }]] -->
+
 * Routage
 * Absence de gestionnaire d’état intégré
 
 
     <!-- [[{ Citations }]] -->
 
-*1 Martin, Robert C., James Grenning, and Simon Brown. Clean architecture: a craftsman's guide to software structure and design. No. s 31. Prentice Hall, 2018.
-*2 Flanagan, David. JavaScript — The definitive guide (6 ed.). p. 1.
-*3 Paulson, Linda Dailey. "Building rich web applications with Ajax." Computer 38.10 (2005): 14-17.
-*4 Vipul, A. M., and Prathamesh Sonpatki. ReactJS by Example-Building Modern Web Applications with React. Packt Publishing Ltd, 2016. 
+* 1 Martin, Robert C., James Grenning, and Simon Brown. Clean architecture: a craftsman's guide to software structure and design. No. s 31. Prentice Hall, 2018.
+* 2 Flanagan, David. JavaScript — The definitive guide (6 ed.). p. 1.
+* 3 Paulson, Linda Dailey. "Building rich web applications with Ajax." Computer 38.10 (2005): 14-17.
+* 4 Vipul, A. M., and Prathamesh Sonpatki. ReactJS by Example-Building Modern Web Applications with React. Packt Publishing Ltd, 2016. 
