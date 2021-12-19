@@ -26,4 +26,4 @@ The last chapter consists of two parts the part that contains all the tools / la
 
     <!-- [[{ Citations }]] -->
 
-*1 Martin, Robert C., James Grenning, and Simon Brown. Clean architecture: a craftsman's guide to software structure and design. No. s 31. Prentice Hall, 2018.
+* 1 Martin, Robert C., James Grenning, and Simon Brown. Clean architecture: a craftsman's guide to software structure and design. No. s 31. Prentice Hall, 2018.

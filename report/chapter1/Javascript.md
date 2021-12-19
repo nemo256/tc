@@ -22,6 +22,6 @@ React is a JavaScript library created in 2011 by Facebook that specializes in he
 React is founded on the idea that DOM manipulation is an expensive operation and should be minimized. It also recognizes that optimizing DOM manipulation by hand will result in a lot of boilerplate code, which is error-prone, boring, and repetitive. React solves this by giving the developer a virtual DOM to render to instead of the actual DOM. It finds difference between the real DOM and virtual DOM and conducts the minimum number of DOM operations required to achieve the new state. [4]
 
     <!-- [[{ Citations }]] -->
-*2 Flanagan, David. JavaScript — The definitive guide (6 ed.). p. 1.
-*3 Paulson, Linda Dailey. "Building rich web applications with Ajax." Computer 38.10 (2005): 14-17.
-*4 Vipul, A. M., and Prathamesh Sonpatki. ReactJS by Example-Building Modern Web Applications with React. Packt Publishing Ltd, 2016. 
+* 2 Flanagan, David. JavaScript — The definitive guide (6 ed.). p. 1.
+* 3 Paulson, Linda Dailey. "Building rich web applications with Ajax." Computer 38.10 (2005): 14-17.
+* 4 Vipul, A. M., and Prathamesh Sonpatki. ReactJS by Example-Building Modern Web Applications with React. Packt Publishing Ltd, 2016. 
