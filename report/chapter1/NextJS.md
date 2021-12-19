@@ -1,4 +1,4 @@
-<!-- This is the Javascript part --> 
+<!-- This is the NextJS part --> 
 <!-- Author: github/nemo256 -->
 
     <!-- [[{ NextJS }]] -->

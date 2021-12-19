@@ -11,7 +11,7 @@ The final outcome is not the website itself, but rather the development experinc
 
 Keywords: Internet, Web, NextJS, Vercel, code.
 
-    <!-- [[{ Introduction generale }]] -->
+    <!-- [[{ Introduction }]] -->
 
 In the last century, the internet is becoming more and more important for us humans, as it is used for literally everything we do, we access it daily to do various activities such as shopping, communicating, checking the map..., and that's why we need websites to do such things.
 
