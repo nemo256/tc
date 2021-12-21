@@ -13,39 +13,32 @@ Introduction generale (Problematique et objectif)
 -- Chapitre I: Etude generale --
 
 1. Introduction
-2. L'histoire de developpment web
-3. Technology des composants
-  3.1. Definition poc
-  3.2. Contrainte de poc
-  3.3. Modele à composants et liste des framework
-4. Javascript
+2. Technology des composants
+  2.1. Definition poc
+  2.2. Contrainte de poc
+  2.3. Modele à composants et liste des framework
+3. Javascript
+  3.1. Definition
+  3.2. Bibliotheque et framework
+  3.3. React
+4. Next.js
   4.1. Definition
-  4.2. Bibliotheque et framework
-  4.3. React
-5. Next.js
-  5.1. Definition
-  5.2. Pourquoi Next.js
-  5.3. Next.js vs Gatsby.js
-  5.4. Les avantages et inconvenient
-  5.5. Stats
-6. Vercel
-7. Conclusion
+  4.2. Pourquoi Next.js
+  4.3. Les caractéristiques/avantages 
+  4.4. Stats
+5. Conclusion
 
 -- Chapitre II: Analyse & conception --
 
 1. Introduction
   1.1. Objectif de l'analyse
-  1.2. Objectif de l'analyse
 2. Methodes utilisee
   2.1 UML (Unified Modeling Language)
-  2.2 Text Editor... ?
-  ...
+  2.2 ...
 3. Diagrammes
   3.1. Diagramme de cas d'utilisation
-  3.2. Diagramme de sequence
-  3.3. Diagramme de classes
-  3.4. Diagramme de composants
-  3.5. Diagramme de deploiement
+  3.2. Diagramme de composants
+  3.3. Diagramme de deploiement
 4. Conclusion
 
 -- Chapitre III: Realisation --
