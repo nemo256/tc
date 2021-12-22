@@ -13,13 +13,13 @@ Mots-clés : Internet, Web, NextJS, Vercel, code.
 
     <!-- [[{ Introduction générale }]] -->
 
-Au siècle dernier, L'internet devient de plus en plus important pour nous, les humains, car il est utilisé littéralement pour tout ce que nous faisons, nous y accédons quotidiennement pour faire diverses activités telles que faire des achats, communiquer, vérifier la map..., et c’est pourquoi nous avons besoin de sites Web pour faire de telles choses.
+Au siècle dernier, L'internet devient de plus en plus important pour nous, les humains, car il est utilisé littéralement pour tout ce que nous faisons, nous y accédons quotidiennement pour faire diverses activités telles que faire des achats, communiquer, vérifier la map..., *et c’est* pourquoi *nous avons* besoin de sites Web pour faire de telles choses.
 
 Problème: De nos jours, c’est un voyage long et difficile pour développer un site Web, il est à la fois coûteux et difficile pour les développeurs de créer un site Web, le développement Web a vu un énorme avènement de l’application à page unique (SPA) au cours des deux dernières années. Le développement initial était simple : rechargez une page complète pour effectuer une modification de l’affichage ou effectuer une action de l’utilisateur. Le problème avec cela était un énorme temps d’aller-retour pour la demande complète pour atteindre le serveur Web et revenir au client.
 
 Puis est venu NextJS, qui offre une excellente expérience utilisateur, une facilité d’utilisation et un fractionnement automatique du code qui profite aux développeurs débutants et avancés, Cette solution est devenue populaire car elle résolvait un problème que de nombreux développeurs Web avaient l’habitude d’avoir avec les applications Web rendues côté client (dans le navigateur). NextJS fournit une solution prête à l’emploi pour le rendu côté serveur (SSR) des composants React.
 
-Pour présenter notre travail, nous avons conçu notre rapport en trois chapitres :
+*Pour présenter notre travail, nous avons conçu notre rapport en trois chapitres :*
 Le premier chapitre contient une étude générale sur le développement Web, la technologie des composants et la façon dont NextJS peut être votre prochaine technologie à apprendre.
 Le deuxième chapitre se compose de divers diagrammes qui sont à l’origine du développement de notre site Web.
 Le dernier chapitre se compose de deux parties, la partie qui contient tous les outils / langages que nous avons utilisés et la deuxième partie présente notre site Web avec ses différentes fonctionnalités.
