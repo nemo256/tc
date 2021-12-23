@@ -551,6 +551,116 @@ Dans ce chapitre introductif, nous avons présenté la programmation orientée d
 
 \newpage
 
+\vspace*{\fill}
+\begin{center}
+    {\color{Blue} \rule{\linewidth}{1.2mm} }\\
+\vspace{0.25in}
+    {\centering\fontsize{30}{40}{\bfseries{\color{Blue}{\scshape{Chapitre II : Analyse et Conception}}}}}
+\vspace{0.35in}\\
+    {\color{Blue} \rule{\linewidth}{1.2mm} }
+\end{center}
+\vspace*{\fill}
+\addcontentsline{toc}{chapter}{\color{Blue}{Chapitre II : Analyse et Conception}}
+\setcounter{section}{0}
+
+\newpage
+
+\section{Introduction}
+La conception d’un projet est une phase très importante pour définir les objectifs et les fonctionnalités de notre application. Dans ce chapitre nous nous intéressons à l’étude de conception de notre application, nous adoptons l’UML comme langage de modélisation.
+\\
+Cela consiste à présenter le diagramme de cas d’utilisation décrivant les scénarios nominaux de chaque acteur ainsi que le diagramme composant qui représente visuellement les relations entre les différents composants de notre système et le diagramme de déploiement qui  est utilisé pour visualiser les processeurs matériels, les nœuds et les dispositifs d’un système.
+
+\vspace{0.1in}
+
+\begin{figure}[h]
+\centering
+    \includegraphics[width = 5in, height = 3in]{../images/analyse_conception.png}
+\caption{Développement en cascade}
+\end{figure}
+
+
+\section{Langage de modélisation}
+\subsection{UML}
+\vspace{0.1in}
+\textbf{U}nified \textbf{M}odeling \textbf{L}anguage ou langage de modélisation unifié est un langage de modélisation de développement à usage général dans le domaine du génie logiciel qui vise à fournir un moyen standard de visualiser la conception d’un système
+
+\vspace{0.1in}
+
+\begin{figure}[h]
+\centering
+    \includegraphics[width = 2in, height = 0.95in]{../images/UMLlogo.png}
+  \caption{Logo UML (Unified Modeling Language)}
+\end{figure}
+
+\newpage
+
+
+\section{Les diagrammes utilisés}
+Pour mieux concevoir notre application, nous avons besoin d’utiliser les trois types de diagrammes suivants :
+
+\vspace{0.1in}
+
+\begin{table}[h]
+\begin{tabular}{|l|l|c|}
+\hline
+\rowcolor[HTML]{9B9B9B} 
+\textbf{Diagramme}                                                       & \textbf{Objectifs}                                                                                                                                                                                                                                                                                                                                                                                                                    & \multicolumn{1}{l|}{\cellcolor[HTML]{9B9B9B}\textbf{Type}} \\ \hline
+\rowcolor[HTML]{9698ED} 
+\begin{tabular}[c]{@{}l@{}}Diagramme de cas\\ d'utilisation\end{tabular} & \begin{tabular}[c]{@{}l@{}}1. Identifier la fonctionnalité du système\\ 2. Il décrit l'interaction des personnes \\ ou du dispositif externe avec le système \\ en cours de conception.\\ 3. Il résume les relations entre les cas\\ d'utilisation, les acteurs et les systèmes.\end{tabular}                                                                                                                                         & Fonctionnel                                                \\ \hline
+\rowcolor[HTML]{9698ED} 
+Diagramme de composants                                                  & \begin{tabular}[c]{@{}l@{}}1. Il permet aux concepteurs d'applications\\ de vérifier que les fonctionnalités requises\\ d'un système sont mises en œuvre par les\\ composants, garantissant ainsi que le système\\ final sera acceptable.\\ 2. De plus, le diagramme des composants est un\\ outil de communication utile entre les parties\\ prenantes pour discuter, analyser ou améliorer\\ la conception du système.\end{tabular} & Statique                                                   \\ \hline
+\rowcolor[HTML]{9698ED} 
+Diagramme de déploiement                                                 & \begin{tabular}[c]{@{}l@{}}1. Décrire les composants matériels utilisés\\ dans les implémentations de systèmes ainsi que\\ les environnements d'exécution et les artefacts\\ déployés sur le matériel.\\ 2. Il permet de visualiser le système de\\ topologie du matériel, de modéliser les\\ éléments matériels physiques et la relation\\ de communication entre eux, et de planifier\\ l'architecture du système.\end{tabular}     & Statique                                                   \\ \hline
+\end{tabular}
+\end{table}
+
+\section{Diagramme de Cas d'utilisation}
+\subsection{Définition}
+Un diagramme de cas d'utilisation dans sa forme la plus simple est une représentation de l'interaction d'un utilisateur avec le système qui montre la relation entre l'utilisateur et les différents cas d'utilisation dans lesquels l'utilisateur est impliqué. Un diagramme de cas d'utilisation peut identifier les différents types d'utilisateurs d'un système et les différents cas d'utilisation et seront souvent accompagnés également d'autres types de diagrammes.\textsuperscript{[11]}
+
+Les diagrammes de cas d'utilisation contiennent généralement :
+
+\begin{itemize}
+    \item Cas d'utilisation.
+    \item Acteurs.
+    \item Relations de dépendance, généralisation et association.
+\end{itemize}
+
+Comme tous les autres diagrammes, les diagrammes de cas d'utilisation peuvent contenir des notes et des contraintes.
+\\
+Les diagrammes de cas d'utilisation peuvent également contenir des packages, qui sont utilisés pour regrouper des éléments de votre modèle en blocs plus volumineux. Parfois, vous souhaiterez également placer des instances de cas d'utilisation dans vos diagrammes, en particulier lorsque vous souhaitez visualiser un système d'exécution spécifique.\textsuperscript{[2]}
+
+\vspace{0.2in}
+
+\begin{figure}[h]
+\centering
+    \includegraphics[width = 3.0in, height = 1.0in]{../images/usecaseEG.png}
+    \caption{Exemple de cas d'utilisation}
+\end{figure}
+
+\subsection{Identifications des acteurs}
+
+Avant d’entamer la présentation des diagrammes, il faut identifier les acteurs qui interagissent directement avec le système. Un acteur est une entité externe qui peut être un utilisateur humain, un dispositif matériel ou un autre système.
+\\
+Dans notre système on distingue deux acteurs principaux :
+
+\begin{itemize}
+    \item Administrateur : c’est lui qui va gérer les comptes clients ainsi que les chambres d’hôtel (Ajouter, Modifier et Supprimer).
+    \item Clients : c'est lui qui va réserver ou bien consulter le site web afin d'authentifier.
+\end{itemize}
+
+\subsection{Identification des cas d’utilisation}
+\subsection{Diagramme de cas d’utilisation général}
+
+\section{Conclusion}
+Dans ce chapitre, nous avons défini d’abord la signification de l’analyse et la conception avec les outils qu’on a utilisés pour réussir notre conception, ensuite nous sommes passés aux différents diagrammes là où nous avons expliqué notre solution en détail. 
+\\
+Cette étude nous a permis de définir la structure de l’application et cela aussi nous a facilité l’implémentation que vous verraient dans le chapitre suivant.
+
+\newpage
+
+\newpage
+
 \vspace*{-0.2in}
 
 \begin{center}
