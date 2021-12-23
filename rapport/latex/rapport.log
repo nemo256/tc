@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.26)  23 DEC 2021 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.26)  23 DEC 2021 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1010,7 +1010,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<../images/UnivUMBB.jpg, id=104, 513.92pt x 379.4175pt>
+<../images/UnivUMBB.jpg, id=112, 513.92pt x 379.4175pt>
 File: ../images/UnivUMBB.jpg Graphic file (type jpg)
 <use ../images/UnivUMBB.jpg>
 Package pdftex.def Info: ../images/UnivUMBB.jpg  used on input line 230.
@@ -1169,8 +1169,13 @@ Overfull \hbox (10.77255pt too wide) detected at line 33
  []
 
 
+Overfull \hbox (10.77255pt too wide) detected at line 34
+\T1/ptm/m/n/14.4 4.4 
+ []
+
+
 LaTeX Font Warning: Font shape `T1/ptm/b/scit' undefined
-(Font)              using `T1/ptm/b/sc' instead on input line 34.
+(Font)              using `T1/ptm/b/sc' instead on input line 36.
 
 )
 \tf@toc=\write5
@@ -1252,7 +1257,7 @@ l.568 \section{Introduction}
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
-<../images/analyse_conception.png, id=256, 931.48pt x 707.64375pt>
+<../images/analyse_conception.png, id=270, 931.48pt x 707.64375pt>
 File: ../images/analyse_conception.png Graphic file (type png)
 <use ../images/analyse_conception.png>
 Package pdftex.def Info: ../images/analyse_conception.png  used on input line 5
@@ -1270,7 +1275,7 @@ ignored
                    \relax 
 l.583 \subsection{UML}
                       
-<../images/UMLlogo.png, id=257, 1204.5pt x 876.27374pt>
+<../images/UMLlogo.png, id=271, 1204.5pt x 876.27374pt>
 File: ../images/UMLlogo.png Graphic file (type png)
 <use ../images/UMLlogo.png>
 Package pdftex.def Info: ../images/UMLlogo.png  used on input line 591.
@@ -1295,7 +1300,7 @@ icate ignored
                    \relax 
 l.618 \subsection{Définition}
                                [10]
-<../images/usecaseEG.png, id=271, 244.915pt x 94.3525pt>
+<../images/usecaseEG.png, id=285, 244.915pt x 94.3525pt>
 File: ../images/usecaseEG.png Graphic file (type png)
 <use ../images/usecaseEG.png>
 Package pdftex.def Info: ../images/usecaseEG.png  used on input line 637.
@@ -1311,46 +1316,47 @@ icate ignored
 <to be read again> 
                    \relax 
 l.652 ...n{Identification des cas d’utilisation}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{section.0.5}) has been already used, dupli
-cate ignored
+                                                   [11 </home/nemo/Work/tc/rapp
+ort/latex/../images/usecaseEG.png (PNG copy)>]
+<../images/UCD.png, id=291, 823.075pt x 885.3075pt>
+File: ../images/UCD.png Graphic file (type png)
+<use ../images/UCD.png>
+Package pdftex.def Info: ../images/UCD.png  used on input line 660.
+(pdftex.def)             Requested size: 476.98193pt x 505.90033pt.
+ [12 </home/nemo/Work/tc/rapport/latex/../images/UCD.png>]pdfTeX warning (ext4)
+: destination with the same identifier (name{section.0.5}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.654 \section{Conclusion}
+l.666 \section{Conclusion}
                           
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 654.
+(hyperref)                be the same. Added a new anchor on input line 666.
 
-[11 </home/nemo/Work/tc/rapport/latex/../images/usecaseEG.png (PNG copy)>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 672.
-
+[13]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 672.
+(hyperref)                removing `\new@ifnextchar' on input line 684.
 
-[12] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 684.
+
+[14] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
 
 AED: lastpage setting LastPage
-[13
+[15
 
 ] (/home/nemo/Work/tc/rapport/latex/rapport.aux)
-
-Package rerunfilecheck Warning: File `rapport.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `rapport.out':
-(rerunfilecheck)             Before: F36BEE4D570B12FCB536E5E7474A8EC2;4889
-(rerunfilecheck)             After:  3056FC73674EB13E68E34DE76EC266E7;4989.
+Package rerunfilecheck Info: File `rapport.out' has not changed.
+(rerunfilecheck)             Checksum: ACF3CCF165880EF183C5027956DF6D74;5262.
  ) 
 Here is how much of TeX's memory you used:
- 25561 strings out of 478994
- 448709 string characters out of 5864750
- 848032 words of memory out of 5000000
- 42492 multiletter control sequences out of 15000+600000
+ 25573 strings out of 478994
+ 448896 string characters out of 5864750
+ 849032 words of memory out of 5000000
+ 42499 multiletter control sequences out of 15000+600000
  480597 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,16n,88p,949b,1144s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1358,11 +1364,11 @@ Here is how much of TeX's memory you used:
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb
 i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (20 pages, 23956
-9 bytes).
+Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (22 pages, 35383
+2 bytes).
 PDF statistics:
- 317 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
- 40 named destinations out of 1000 (max. 500000)
- 249 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 342 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 

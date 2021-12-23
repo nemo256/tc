@@ -31,6 +31,7 @@
 \contentsline {subsection}{\numberline {4.1}D\IeC {\'e}finition}{10}{subsection.0.4.1}%
 \contentsline {subsection}{\numberline {4.2}Identifications des acteurs}{11}{subsection.0.4.2}%
 \contentsline {subsection}{\numberline {4.3}Identification des cas d\IeC {\textquoteright }utilisation}{11}{subsection.0.4.3}%
-\contentsline {section}{\numberline {5}Conclusion}{11}{section*.6}%
-\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{12}{section*.6}%
+\contentsline {subsection}{\numberline {4.4}Diagramme de cas d\IeC {\textquoteright }utilisation g\IeC {\'e}n\IeC {\'e}ral}{11}{subsection.0.4.4}%
+\contentsline {section}{\numberline {5}Conclusion}{13}{section*.7}%
+\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{14}{section*.7}%
 \contentsfinish 
