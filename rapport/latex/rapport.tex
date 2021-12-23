@@ -716,6 +716,18 @@ Décrivent les composants du logiciel, leurs interfaces et leurs dépendances, l
 
 \newpage
 
+\section{Diagrammes de déploiement}
+\subsection{Définition}
+\hspace*{0.16in}
+Un diagramme de déploiement dans le langage de modélisation unifié modélise le déploiement physique des artefacts sur les nœuds. Pour décrire un site Web, par exemple, un diagramme de déploiement montrerait quels composants matériels «nœuds» existent (par exemple, un serveur Web, un serveur d’applications et un serveur de base de données), sur quels composants logiciels «artefacts» s’exécutent chaque nœud (par exemple, application Web, base de données), et comment les différentes pièces sont connectées (par exemple JDBC, REST, RMI). \textsuperscript{\cite{booch2005unified}}
+\\
+\hspace*{0.16in}
+Les nœuds apparaissent sous forme de cases et les artefacts alloués à chaque nœud apparaissent sous forme de rectangles dans les cases. Les nœuds peuvent avoir des sous-nœuds, qui apparaissent comme des boîtes imbriquées. Un seul nœud dans un diagramme de déploiement peut représenter conceptuellement plusieurs nœuds physiques, tels qu’un cluster de serveurs de base de données.
+
+\subsection{Diagramme de déploiement}
+
+\newpage
+
 \section{Conclusion}
 \hspace*{0.16in}
 Dans ce chapitre, nous avons défini d’abord la signification de l’analyse et la conception avec les outils qu’on a utilisés pour réussir notre conception, ensuite nous sommes passés aux différents diagrammes là où nous avons expliqué notre solution en détail. 
