@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{flanagan2013javascript}
+David Flanagan.
+\newblock Javascript: the definitive guide, 2013.
+
+\bibitem{stephane2002poo}
+Stéphane Fréno.
+\newblock Compléments poo : Programmation orientée composants.
+\newblock page~6, 2002.
+
+\bibitem{martin2018clean}
+Robert~C Martin, James Grenning, and Simon Brown.
+\newblock {\em Clean architecture: a craftsman's guide to software structure
+  and design}.
+\newblock Number s 31. Prentice Hall, 2018.
+
+\bibitem{paulson2005building}
+Linda~Dailey Paulson.
+\newblock Building rich web applications with ajax.
+\newblock {\em Computer}, 38(10):14--17, 2005.
+
+\bibitem{vipul2016reactjs}
+AM~Vipul and Prathamesh Sonpatki.
+\newblock {\em ReactJS by Example-Building Modern Web Applications with React}.
+\newblock Packt Publishing Ltd, 2016.
+
+\end{thebibliography}

@@ -23,5 +23,4 @@
 \contentsline {subsection}{\numberline {4.3}Les caract\IeC {\'e}ristiques / avantages de Next.Js}{7}{subsection.0.4.3}%
 \contentsline {section}{\numberline {5}Conclusion}{7}{section.0.5}%
 \contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{8}{section.0.5}%
-\contentsline {part}{\vspace {-0.12in}\color {Blue}{Bibliographie}}{9}{section.0.5}%
 \contentsfinish 

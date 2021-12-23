@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.26)  23 DEC 2021 09:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.26)  23 DEC 2021 11:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/nemo/Work/tc/rapport/rapport.tex
-(/home/nemo/Work/tc/rapport/rapport.tex
+**/home/nemo/Work/tc/rapport/latex/rapport.tex
+(/home/nemo/Work/tc/rapport/latex/rapport.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/share/texmf-dist/tex/latex/base/report.cls
@@ -896,31 +896,31 @@ calc.code.tex
 File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 20
-2.
+5.
  (/usr/share/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(/home/nemo/Work/tc/rapport/rapport.aux)
+(/home/nemo/Work/tc/rapport/latex/rapport.aux)
 \openout1 = `rapport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 202.
-LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -985,7 +985,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 202.
+Package hyperref Info: Link coloring OFF on input line 205.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -994,75 +994,76 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count343
 )
-LaTeX Info: Redefining \ref on input line 202.
-LaTeX Info: Redefining \pageref on input line 202.
-LaTeX Info: Redefining \nameref on input line 202.
+LaTeX Info: Redefining \ref on input line 205.
+LaTeX Info: Redefining \pageref on input line 205.
+LaTeX Info: Redefining \nameref on input line 205.
 
-(/home/nemo/Work/tc/rapport/rapport.out)
-(/home/nemo/Work/tc/rapport/rapport.out)
+(/home/nemo/Work/tc/rapport/latex/rapport.out)
+(/home/nemo/Work/tc/rapport/latex/rapport.out)
 \@outlinefile=\write4
 \openout4 = `rapport.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 202.
+(lastpage)             ! on input line 205.
 
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<./images/UnivUMBB.jpg, id=80, 513.92pt x 379.4175pt>
-File: ./images/UnivUMBB.jpg Graphic file (type jpg)
-<use ./images/UnivUMBB.jpg>
-Package pdftex.def Info: ./images/UnivUMBB.jpg  used on input line 240.
+<../images/UnivUMBB.jpg, id=77, 513.92pt x 379.4175pt>
+File: ../images/UnivUMBB.jpg Graphic file (type jpg)
+<use ../images/UnivUMBB.jpg>
+Package pdftex.def Info: ../images/UnivUMBB.jpg  used on input line 230.
 (pdftex.def)             Requested size: 108.40472pt x 72.26953pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/nemo/Work/tc/rapport
-/./images/UnivUMBB.jpg>] (/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
+/latex/../images/UnivUMBB.jpg>] (/usr/share/texmf-dist/tex/latex/ucs/data/uni-3
+2.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 322.
+ 312.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 322.
+ 312.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 322.
+ 312.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 322.
+ 312.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-22.
+12.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 322.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 312.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 322.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 312.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 322.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 312.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.331 \newpage
-               [1] [2] (/home/nemo/Work/tc/rapport/rapport.toc
+l.321 \newpage
+               [1] [2] (/home/nemo/Work/tc/rapport/latex/rapport.toc
 
 LaTeX Font Warning: Font shape `T1/ptm/b/scit' undefined
 (Font)              using `T1/ptm/b/sc' instead on input line 1.
@@ -1147,23 +1148,18 @@ LaTeX Font Warning: Font shape `T1/ptm/b/scit' undefined
 
 [3
 
-]
-
-LaTeX Font Warning: Font shape `T1/ptm/b/scit' undefined
-(Font)              using `T1/ptm/b/sc' instead on input line 26.
-
-)
+])
 \tf@toc=\write5
 \openout5 = `rapport.toc'.
 
- [4] (/home/nemo/Work/tc/rapport/rapport.lof)
+ [4] (/home/nemo/Work/tc/rapport/latex/rapport.lof)
 \tf@lof=\write6
 \openout6 = `rapport.lof'.
 
  [5
 
 ]
-(/home/nemo/Work/tc/rapport/rapport.lot)
+(/home/nemo/Work/tc/rapport/latex/rapport.lot)
 \tf@lot=\write7
 \openout7 = `rapport.lot'.
 
@@ -1172,96 +1168,115 @@ LaTeX Font Warning: Font shape `T1/ptm/b/scit' undefined
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 395.
+(hyperref)                removing `\new@ifnextchar' on input line 385.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 395.
+(hyperref)                removing `\@ifnextchar' on input line 385.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.414 \newpage
+l.404 \newpage
                [1]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 425.
+(hyperref)                removing `\@ifnextchar' on input line 415.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.428 \newpage
+l.418 \newpage
                [2]
+
+LaTeX Warning: Citation `stephane2002poo' on page 3 undefined on input line 427
+.
+
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-44.
- (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+34.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.456     \newpage
+l.446     \newpage
                    [3]pdfTeX warning (ext4): destination with the same identifi
 er (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.484 \newpage
-               [4]pdfTeX warning (ext4): destination with the same identifier (
-name{page.5}) has been already used, duplicate ignored
+l.474 \newpage
+               [4]
+
+LaTeX Warning: Citation `flanagan2013javascript' on page 5 undefined on input l
+ine 479.
+
+
+LaTeX Warning: Citation `paulson2005building' on page 5 undefined on input line
+ 480.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.507 \newpage
-               [5]pdfTeX warning (ext4): destination with the same identifier (
-name{page.6}) has been already used, duplicate ignored
+l.497 \newpage
+               [5]
+
+LaTeX Warning: Citation `vipul2016reactjs' on page 6 undefined on input line 50
+2.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.536 \newpage
+l.526 \newpage
                [6] [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 573.
+(hyperref)                removing `\new@ifnextchar' on input line 563.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 573.
+(hyperref)                removing `\@ifnextchar' on input line 563.
 
-[8]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 588.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 588.
-
+[8] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
 
 Package caption Warning: Unused \captionsetup[table] on input line 35.
 See the caption package documentation for explanation.
 
 
 AED: lastpage setting LastPage
-[9] (/home/nemo/Work/tc/rapport/rapport.aux)
+[9
+
+] (/home/nemo/Work/tc/rapport/latex/rapport.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 1E76DF379CBFE0D41F15B27DE78F60CE;3451.
+(rerunfilecheck)             Checksum: 7AB21DB16EFB04EA3E112FBBA652AC27;3284.
  ) 
 Here is how much of TeX's memory you used:
- 24911 strings out of 478994
- 441514 string characters out of 5864750
- 845815 words of memory out of 5000000
- 41867 multiletter control sequences out of 15000+600000
- 477749 words of font info for 86 fonts, out of 8000000 for 9000
+ 24929 strings out of 478994
+ 441985 string characters out of 5864750
+ 845868 words of memory out of 5000000
+ 41875 multiletter control sequences out of 15000+600000
+ 483400 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,11n,88p,943b,1144s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,11n,88p,949b,1144s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb
-i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on /home/nemo/Work/tc/rapport/rapport.pdf (16 pages, 108042 byte
-s).
+i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (16 pages, 12094
+4 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
 

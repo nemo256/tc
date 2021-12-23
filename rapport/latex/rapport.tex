@@ -66,7 +66,10 @@
 \renewcommand{\thesection}{\arabic{section}}
 
 % Renaming Bibliography name
-\renewcommand\bibname{Bibliographie}
+\renewcommand\bibname{Références}
+
+% Bibliography styling
+\bibliographystyle{plain}
 
 % Redifining from 1.1 to 1.a ... 1.b ... and so on
 %\renewcommand{\thesubsection}{\alph{subsection}}
@@ -140,7 +143,7 @@
 % My custom page style
 \fancypagestyle{myfancy}{%   
    \fancyhf{}%
-   \fancyfoot[C]{\tikz[baseline={(0,0)},anchor=center] \node[label={center:\thepage}]{\includegraphics[scale=.037]{./images/cloud.png}};}%
+   \fancyfoot[C]{\tikz[baseline={(0,0)},anchor=center] \node[label={center:\thepage}]{\includegraphics[scale=.037]{../images/cloud.png}};}%
    \renewcommand{\headrulewidth}{0pt}%
    \renewcommand{\footrulewidth}{0pt}%
    \fancyhead{}
@@ -222,22 +225,9 @@
 
        \vspace{0.1in}
 
-%       \begin{figure}[h]
-%       \hspace{0.29in}
-%           \Large{Faculté des Sciences}$
-%       \hspace{0.25in}
-%       \begin{array}{l}
-%       \centering
-          % \includegraphics[width = 2.2in, height = 1.4in]{../Images/UnivUMBB.jpg}
-%       \end{array}
-%       \hspace{-0.2in}
-%           $\Large{Département d'informatique}
-%       \hspace{-0.8in}
-%       \end{figure}
-
     \begin{figure}[h]
     \centering
-        \includegraphics[width = 1.5in, height = 1in]{./images/UnivUMBB.jpg}
+        \includegraphics[width = 1.5in, height = 1in]{../images/UnivUMBB.jpg}
     \end{figure}
      \vspace*{-0.1in}
     \large{Faculté des Sciences}
@@ -319,7 +309,7 @@ Il existe de nombreuses technologies qui sont utilisées sur Internet pour parta
 \\\\
 L’objectif de cet article est de présenter NextJS, l’un des frameworks les plus populaires qui aide les développeurs du monde entier à créer des sites Web, et également de présenter notre exemple de site Web créé par NextJS et hébergé par Vercel.
 \\\\
-    Le résultat final n’est pas le site Web lui-même, mais plutôt l’expérience de développement dans laquelle les développeurs bénéficieront le plus, "La vérité ne peut être trouvée qu’à un seul endroit: le code.". \textsuperscript{[1]}
+    Le résultat final n’est pas le site Web lui-même, mais plutôt l’expérience de développement dans laquelle les développeurs bénéficieront le plus, "La vérité ne peut être trouvée qu’à un seul endroit: le code.". \textsuperscript{\cite{martin2018clean}}
 \end{changemargin}
 
 \vspace{1in}
@@ -347,7 +337,7 @@ There are many technologies which are used on the Internet to share files, each 
 \\\\
 The objectif of this paper is to showcase NextJS, one of the most popular frameworks that helps developers around the world create websites, and also showcase our sample website created by NextJS and hosted by Vercel.
 \\\\
-The final outcome is not the website itself, but rather the development experince in which developers will benefit the most, "Truth can only be found in one place: the code.". \textsuperscript{[1]}
+    The final outcome is not the website itself, but rather the development experince in which developers will benefit the most, "Truth can only be found in one place: the code.". \textsuperscript{\cite{martin2018clean}}
 \end{changemargin}
 
 \vspace{1in}
@@ -434,7 +424,7 @@ Dans ce présente chapitre, nous présentons ce qu’est la technologie des comp
 \section{Programmation orientée composants}
 \subsection{Définition}
 \vspace{0.1in}
-C’est une approche modulaire de développement des applications informatique, afin de crée des unités d’une façon indépendante de production et de déploiement et qui peut être combiné à d’autre unités (composants) pour former une application.
+C’est une approche modulaire de développement des applications informatique, afin de crée des unités d’une façon indépendante de production et de déploiement et qui peut être combiné à d’autre unités (composants) pour former une application. \textsuperscript{\cite{stephane2002poo}}
 
 \subsection{La structure d’un composant}
 \vspace{0.1in}
@@ -486,8 +476,8 @@ Ces modèles sont classés en trois catégories :
 \section{JavaScript}
 \subsection{Définition}
 \vspace{0.1in}
-JavaScript souvent abrégé JS, est un langage de programmation créé par Brendan Eich en 1995, est l’une des technologies de base du World Wide Web. JavaScript fait partie de la triade de technologies que tous les développeurs Web doivent apprendre : HTML pour spécifier le contenu des pages Web, CSS pour spécifier la présentation des pages Web et JavaScript pour spécifier le comportement des pages Web. \textsuperscript{[2]}
-JavaScript interagit avec le code HTML et rend les pages Web plus actives. \textsuperscript{[3]}
+JavaScript souvent abrégé JS, est un langage de programmation créé par Brendan Eich en 1995, est l’une des technologies de base du World Wide Web. JavaScript fait partie de la triade de technologies que tous les développeurs Web doivent apprendre : HTML pour spécifier le contenu des pages Web, CSS pour spécifier la présentation des pages Web et JavaScript pour spécifier le comportement des pages Web. \textsuperscript{\cite{flanagan2013javascript}}
+JavaScript interagit avec le code HTML et rend les pages Web plus actives. \textsuperscript{\cite{paulson2005building}}
 
 \subsection{Bibliothèques et Frameworks}
 \vspace{0.1in}
@@ -509,7 +499,7 @@ React est une bibliothèque JavaScript créée en 2011 par Facebook (maintenant 
 Ces composants englobent à la fois la logique pour gérer l’affichage de la vue et la vue elle-même. Il peut contenir des données qu’il utilise pour afficher l’état de l’application.
 
 \vspace*{0.2in}
-React est fondé sur l’idée que la manipulation DOM est une opération coûteuse et doit être minimisée. Il reconnaît également que l’optimisation de la manipulation DOM à la main entraînera beaucoup de code standard, qui est sujet aux erreurs, ennuyeux et répétitif. React résout ce problème en donnant au développeur un DOM virtuel à restituer au lieu du DOM réel. Il trouve la différence entre le DOM réel et le DOM virtuel et effectue le nombre minimum d’opérations DOM requis pour atteindre le nouvel état. \textsuperscript{[4]}
+React est fondé sur l’idée que la manipulation DOM est une opération coûteuse et doit être minimisée. Il reconnaît également que l’optimisation de la manipulation DOM à la main entraînera beaucoup de code standard, qui est sujet aux erreurs, ennuyeux et répétitif. React résout ce problème en donnant au développeur un DOM virtuel à restituer au lieu du DOM réel. Il trouve la différence entre le DOM réel et le DOM virtuel et effectue le nombre minimum d’opérations DOM requis pour atteindre le nouvel état. \textsuperscript{\cite{vipul2016reactjs}}
 
 \section{NextJS}
 \subsection{Définition}
@@ -574,18 +564,6 @@ Dans ce chapitre introductif, nous avons présenté la programmation orientée d
 
 \newpage
 
-\def\thispagestyle#1{}
-\thispagestyle{empty}
-\pagestyle{empty}
-
-\begin{center}
-    {\color{Blue} \rule{5.5in}{1.4mm} }\\
-    \vspace{0.1in}
-    \scshape{\fontsize{34}{46}{\bfseries{\color{Blue}{Bibliographie}}}}
-    \\
-    \vspace{0.5in}
-\end{center}
-\addcontentsline{toc}{part}{\vspace{-0.12in}\color{Blue}{Bibliographie}}
-\renewcommand{\ULdepth}{1.8pt}
+\bibliography{rapport}
 
 \end{document}

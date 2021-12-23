@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: rapport.aux
+The style file: plain.bst
+Database file #1: rapport.bib
+Warning--empty journal in stephane2002poo
+Warning--there's a number but no series in martin2018clean
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            526 strings with 4571 characters,
+and the built_in function-call counts, 1299 in all, are:
+= -- 121
+> -- 52
+< -- 2
++ -- 21
+- -- 16
+* -- 72
+:= -- 227
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 56
+empty$ -- 113
+format.name$ -- 16
+if$ -- 272
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 6
+newline$ -- 27
+num.names$ -- 10
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 36
+stack$ -- 0
+substring$ -- 46
+swap$ -- 8
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 2
+while$ -- 13
+width$ -- 6
+write$ -- 52
+(There were 2 warnings)
