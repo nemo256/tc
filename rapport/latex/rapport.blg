@@ -5,45 +5,45 @@ The style file: plain.bst
 Database file #1: rapport.bib
 Warning--empty journal in stephane2002poo
 Warning--there's a number but no series in martin2018clean
-You've used 5 entries,
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            526 strings with 4571 characters,
-and the built_in function-call counts, 1299 in all, are:
-= -- 121
-> -- 52
+            530 strings with 4662 characters,
+and the built_in function-call counts, 1516 in all, are:
+= -- 140
+> -- 59
 < -- 2
-+ -- 21
-- -- 16
-* -- 72
-:= -- 227
-add.period$ -- 15
-call.type$ -- 5
-change.case$ -- 21
++ -- 25
+- -- 18
+* -- 80
+:= -- 265
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 56
-empty$ -- 113
-format.name$ -- 16
-if$ -- 272
+cite$ -- 8
+duplicate$ -- 68
+empty$ -- 135
+format.name$ -- 18
+if$ -- 318
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 6
-newline$ -- 27
-num.names$ -- 10
-pop$ -- 35
+int.to.str$ -- 6
+missing$ -- 8
+newline$ -- 32
+num.names$ -- 12
+pop$ -- 43
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 21
 quote$ -- 0
-skip$ -- 36
+skip$ -- 42
 stack$ -- 0
-substring$ -- 46
-swap$ -- 8
+substring$ -- 52
+swap$ -- 9
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
+type$ -- 18
 warning$ -- 2
-while$ -- 13
-width$ -- 6
-write$ -- 52
+while$ -- 15
+width$ -- 7
+write$ -- 62
 (There were 2 warnings)
