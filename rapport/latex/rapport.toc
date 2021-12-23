@@ -1,0 +1,27 @@
+\contentsline {part}{\vspace {-0.12in}\color {Blue}{R\IeC {\'e}sum\IeC {\'e}}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Blue}{Abstract}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Blue}{Table des mati\IeC {\`e}res}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Blue}{Liste des figures}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Blue}{Liste des tableaux}}{}{figure.caption.1}
+\renewcommand {\cftsecleader }{\cftdotfill {\cftsecdotsep }}
+\thispagestyle {empty}
+\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Introduction g\IeC {\'e}n\IeC {\'e}rale}}{1}{figure.caption.1}%
+\contentsline {chapter}{\color {Blue}{Chapitre I : \IeC {\'E}tude G\IeC {\'e}n\IeC {\'e}ral}}{2}{figure.caption.1}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.0.1}%
+\contentsline {section}{\numberline {2}Programmation orient\IeC {\'e}e composants}{3}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}D\IeC {\'e}finition}{3}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}La structure d\IeC {\textquoteright }un composant}{3}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {2.3}Les avantages et les inconv\IeC {\'e}nients de la programmation orient\IeC {\'e}e composants}{3}{subsection.0.2.3}%
+\contentsline {subsection}{\numberline {2.4}Les mod\IeC {\`e}les \IeC {\`a} composants}{4}{subsection.0.2.4}%
+\contentsline {section}{\numberline {3}JavaScript}{5}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}D\IeC {\'e}finition}{5}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Biblioth\IeC {\`e}ques et Frameworks}{5}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}ReactJS}{5}{subsection.0.3.3}%
+\contentsline {section}{\numberline {4}NextJS}{6}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}D\IeC {\'e}finition}{6}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Pourquoi Next.Js\IeC {\nobreakspace }?}{6}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.3}Les caract\IeC {\'e}ristiques / avantages de Next.Js}{7}{subsection.0.4.3}%
+\contentsline {section}{\numberline {5}Conclusion}{7}{section.0.5}%
+\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{8}{section.0.5}%
+\contentsline {part}{\vspace {-0.12in}\color {Blue}{Bibliographie}}{9}{section.0.5}%
+\contentsfinish 

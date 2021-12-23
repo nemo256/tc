@@ -69,7 +69,7 @@ DOM -> Document Object Model
 * Adaptabilité et réactivité
 * Sécurité des données
 * Idéal pour l’optimisation des moteurs de recherche
-* Délai de mise sur le marché rapide
+* Délai de mise sur le marché est rapide
 * Zéro configuration 
 * Fractionnement automatique du code 
 * Facilité de mise à niveau.
