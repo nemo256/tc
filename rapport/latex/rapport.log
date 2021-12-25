@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.26)  23 DEC 2021 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.26)  25 DEC 2021 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1010,7 +1010,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<../images/UnivUMBB.jpg, id=136, 513.92pt x 379.4175pt>
+<../images/UnivUMBB.jpg, id=153, 513.92pt x 379.4175pt>
 File: ../images/UnivUMBB.jpg Graphic file (type jpg)
 <use ../images/UnivUMBB.jpg>
 Package pdftex.def Info: ../images/UnivUMBB.jpg  used on input line 230.
@@ -1149,53 +1149,63 @@ LaTeX Font Warning: Font shape `T1/ptm/b/scit' undefined
 [3
 
 ]
-Overfull \hbox (10.77255pt too wide) detected at line 28
-\T1/ptm/m/n/14.4 2.1 
+Overfull \hbox (10.77255pt too wide) detected at line 29
+\T1/ptm/m/n/14.4 3.1 
  []
 
 
-Overfull \hbox (10.77255pt too wide) detected at line 31
-\T1/ptm/m/n/14.4 4.1 
+Overfull \hbox (10.77255pt too wide) detected at line 30
+\T1/ptm/m/n/14.4 3.2 
  []
 
 
 Overfull \hbox (10.77255pt too wide) detected at line 32
-\T1/ptm/m/n/14.4 4.2 
+\T1/ptm/m/n/14.4 4.1 
  []
 
 
-Overfull \hbox (10.77255pt too wide) detected at line 33
-\T1/ptm/m/n/14.4 4.3 
- []
-
-
-Overfull \hbox (10.77255pt too wide) detected at line 34
-\T1/ptm/m/n/14.4 4.4 
- []
-
-
-Overfull \hbox (10.77255pt too wide) detected at line 36
-\T1/ptm/m/n/14.4 5.1 
- []
-
-
-Overfull \hbox (10.77255pt too wide) detected at line 37
-\T1/ptm/m/n/14.4 5.2 
- []
-
-
-Overfull \hbox (10.77255pt too wide) detected at line 39
+Overfull \hbox (10.77255pt too wide) detected at line 35
 \T1/ptm/m/n/14.4 6.1 
  []
 
 
-Overfull \hbox (10.77255pt too wide) detected at line 40
+Overfull \hbox (10.77255pt too wide) detected at line 36
 \T1/ptm/m/n/14.4 6.2 
  []
 
 
+Overfull \hbox (10.77255pt too wide) detected at line 37
+\T1/ptm/m/n/14.4 6.3 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) detected at line 38
+\T1/ptm/m/n/14.4 6.4 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) detected at line 40
+\T1/ptm/m/n/14.4 7.1 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) detected at line 41
+\T1/ptm/m/n/14.4 7.2 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) detected at line 43
+\T1/ptm/m/n/14.4 8.1 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) detected at line 44
+\T1/ptm/m/n/14.4 8.2 
+ []
+
+
 LaTeX Font Warning: Font shape `T1/ptm/b/scit' undefined
-(Font)              using `T1/ptm/b/sc' instead on input line 42.
+(Font)              using `T1/ptm/b/sc' instead on input line 46.
 
 )
 \tf@toc=\write5
@@ -1223,165 +1233,157 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 391.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
+07.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.417 \newpage
+l.412 \newpage
                [1]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 428.
+(hyperref)                removing `\@ifnextchar' on input line 423.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.431 \newpage
-               [2]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-49.
- (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
- been already used, duplicate ignored
+l.426 \newpage
+               [2]pdfTeX warning (ext4): destination with the same identifier (
+name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.461     \newpage
+l.456     \newpage
                    [3]pdfTeX warning (ext4): destination with the same identifi
 er (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.490 \newpage
+l.485 \newpage
                [4]pdfTeX warning (ext4): destination with the same identifier (
 name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.516 \newpage
+l.511 \newpage
                [5]pdfTeX warning (ext4): destination with the same identifier (
 name{page.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.548 \newpage
+l.543 \newpage
                [6] [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 585.
+(hyperref)                removing `\@ifnextchar' on input line 580.
 
 [8]pdfTeX warning (ext4): destination with the same identifier (name{section.0.
 1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.590 \section{Introduction}
+l.585 \section{Introduction}
                             
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
-<../images/analyse_conception.png, id=310, 931.48pt x 707.64375pt>
+<../images/analyse_conception.png, id=335, 931.48pt x 707.64375pt>
 File: ../images/analyse_conception.png Graphic file (type png)
 <use ../images/analyse_conception.png>
-Package pdftex.def Info: ../images/analyse_conception.png  used on input line 6
-01.
+Package pdftex.def Info: ../images/analyse_conception.png  used on input line 5
+96.
 (pdftex.def)             Requested size: 361.34274pt x 216.80823pt.
 pdfTeX warning (ext4): destination with the same identifier (name{section.0.2})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.606 \section{Langage de modélisation}
+l.600 \section{L'objectif}
+                           [9 </home/nemo/Work/tc/rapport/latex/../images/analy
+se_conception.png>]pdfTeX warning (ext4): destination with the same identifier 
+(name{section.0.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.615 \section{Spécification des besoins}
+                                          pdfTeX warning (ext4): destination wi
+th the same identifier (name{subsection.0.3.1}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.619 \subsection{Les besoins fonctionnels}
+                                           pdfTeX warning (ext4): destination w
+ith the same identifier (name{subsection.0.3.2}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.633 \subsection{Les besoins non-fonctionnels}
+                                                [10]pdfTeX warning (ext4): dest
+ination with the same identifier (name{section.0.4}) has been already used, dup
+licate ignored
+<to be read again> 
+                   \relax 
+l.647 \section{Langage de modélisation}
                                         pdfTeX warning (ext4): destination with
- the same identifier (name{subsection.0.2.1}) has been already used, duplicate 
+ the same identifier (name{subsection.0.4.1}) has been already used, duplicate 
 ignored
 <to be read again> 
                    \relax 
-l.607 \subsection{UML}
+l.648 \subsection{UML}
                       
-<../images/UMLlogo.png, id=311, 1204.5pt x 876.27374pt>
+<../images/UMLlogo.png, id=347, 1204.5pt x 876.27374pt>
 File: ../images/UMLlogo.png Graphic file (type png)
 <use ../images/UMLlogo.png>
-Package pdftex.def Info: ../images/UMLlogo.png  used on input line 616.
+Package pdftex.def Info: ../images/UMLlogo.png  used on input line 657.
 (pdftex.def)             Requested size: 144.53375pt x 68.6459pt.
- [9 </home/nemo/Work/tc/rapport/latex/../images/analyse_conception.png> </home/
-nemo/Work/tc/rapport/latex/../images/UMLlogo.png>]pdfTeX warning (ext4): destin
-ation with the same identifier (name{section.0.3}) has been already used, dupli
-cate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{section.0.5})
+ has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.623 \section{Les diagrammes utilisés}
-                                        pdfTeX warning (ext4): destination with
- the same identifier (name{section.0.4}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.644 \section{Diagramme de Cas d'utilisation}
-                                              pdfTeX warning (ext4): destinatio
-n with the same identifier (name{subsection.0.4.1}) has been already used, dupl
-icate ignored
-<to be read again> 
-                   \relax 
-l.645 \subsection{Définition}
-                               [10]
-<../images/usecaseEG.png, id=325, 244.915pt x 94.3525pt>
-File: ../images/usecaseEG.png Graphic file (type png)
-<use ../images/usecaseEG.png>
-Package pdftex.def Info: ../images/usecaseEG.png  used on input line 667.
-(pdftex.def)             Requested size: 216.81514pt x 72.27011pt.
-pdfTeX warning (ext4): destination with the same identifier (name{subsection.0.
-4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.671 \subsection{Identifications des acteurs}
-                                              pdfTeX warning (ext4): destinatio
-n with the same identifier (name{subsection.0.4.3}) has been already used, dupl
-icate ignored
-<to be read again> 
-                   \relax 
-l.682 ...n{Identification des cas d’utilisation}
-                                                   [11 </home/nemo/Work/tc/rapp
-ort/latex/../images/usecaseEG.png (PNG copy)>]
-<../images/UCD.png, id=333, 823.075pt x 885.3075pt>
-File: ../images/UCD.png Graphic file (type png)
-<use ../images/UCD.png>
-Package pdftex.def Info: ../images/UCD.png  used on input line 691.
-(pdftex.def)             Requested size: 476.98193pt x 505.90033pt.
- [12 </home/nemo/Work/tc/rapport/latex/../images/UCD.png>]pdfTeX warning (ext4)
-: destination with the same identifier (name{section.0.5}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.697 \section{Diagramme des composants}
+l.662 \section{Les diagrammes utilisés}
                                         
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 697.
+(hyperref)                be the same. Added a new anchor on input line 662.
 
-<../images/components.png, id=340, 1099.10625pt x 804.00375pt>
+[11 </home/nemo/Work/tc/rapport/latex/../images/UMLlogo.png>]
+<../images/usecaseEG.png, id=356, 244.915pt x 94.3525pt>
+File: ../images/usecaseEG.png Graphic file (type png)
+<use ../images/usecaseEG.png>
+Package pdftex.def Info: ../images/usecaseEG.png  used on input line 705.
+(pdftex.def)             Requested size: 216.81514pt x 72.27011pt.
+ [12 </home/nemo/Work/tc/rapport/latex/../images/usecaseEG.png (PNG copy)>]
+<../images/UCD.png, id=364, 823.075pt x 885.3075pt>
+File: ../images/UCD.png Graphic file (type png)
+<use ../images/UCD.png>
+Package pdftex.def Info: ../images/UCD.png  used on input line 741.
+(pdftex.def)             Requested size: 476.98193pt x 505.90033pt.
+ [13 </home/nemo/Work/tc/rapport/latex/../images/UCD.png>]
+<../images/components.png, id=370, 1099.10625pt x 804.00375pt>
 File: ../images/components.png Graphic file (type png)
 <use ../images/components.png>
-Package pdftex.def Info: ../images/components.png  used on input line 713.
+Package pdftex.def Info: ../images/components.png  used on input line 763.
 (pdftex.def)             Requested size: 476.9837pt x 375.79625pt.
-[13 </home/nemo/Work/tc/rapport/latex/../images/components.png>] [14] [15]
+ [14 </home/nemo/Work/tc/rapport/latex/../images/components.png>] [15] [16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 751.
+(hyperref)                removing `\new@ifnextchar' on input line 801.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 751.
+(hyperref)                removing `\@ifnextchar' on input line 801.
 
-[16] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
+[17] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
 
 AED: lastpage setting LastPage
-[17
+[18
 
 ] (/home/nemo/Work/tc/rapport/latex/rapport.aux)
 Package rerunfilecheck Info: File `rapport.out' has not changed.
-(rerunfilecheck)             Checksum: A9AC970DC12083E08F2B0F9C4311D005;6229.
+(rerunfilecheck)             Checksum: 2BD688EC310E3DDDD4484C5FF4D55B25;6923.
  ) 
 Here is how much of TeX's memory you used:
- 25597 strings out of 478994
- 449320 string characters out of 5864750
+ 25609 strings out of 478994
+ 449492 string characters out of 5864750
  848071 words of memory out of 5000000
- 42512 multiletter control sequences out of 15000+600000
+ 42518 multiletter control sequences out of 15000+600000
  480597 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,16n,88p,949b,1144s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1389,11 +1391,11 @@ Here is how much of TeX's memory you used:
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb
 i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (24 pages, 40445
-1 bytes).
+Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (25 pages, 40778
+6 bytes).
 PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
- 54 named destinations out of 1000 (max. 500000)
- 323 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 429 PDF objects out of 1000 (max. 8388607)
+ 343 compressed objects within 4 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 355 words of extra memory for PDF output out of 10000 (max. 10000000)
 

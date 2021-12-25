@@ -402,17 +402,12 @@ C’est dans ce contexte, le NextJS offre une excellente expérience utilisateur
 Dans ce cadre, on a proposé de faire un système de gestion des chambres d’hôtel on se basant sur la technologie de Next.JS.
 \\
 Dans ce document nous présentons trois chapitres :
-\\
-\hspace*{0.16in}
-Le premier chapitre contient une étude générale sur la technologie des composants et la façon dont NextJS peut être votre prochaine technologie à apprendre.
-\\
-\hspace*{0.16in}
-Le deuxième chapitre se compose de divers diagrammes qui sont à l’origine du développement de notre site Web.
-\\
-\hspace*{0.16in}
-Le troisième et le dernier chapitre est consacré à la réalisation où nous allons définir tous les outils qui nous ont permis de concevoir notre site web. Quelques interfaces y seront présentées.
 
-Notre travail s’achèvera par une conclusion générale.
+\begin{itemize}
+    \item Le premier chapitre contient une étude générale sur la technologie des composants et la façon dont NextJS peut être votre prochaine technologie à apprendre.
+    \item Le deuxième chapitre se compose de divers diagrammes qui sont à l’origine du développement de notre site Web.
+    \item Le troisième et le dernier chapitre est consacré à la réalisation où nous allons définir tous les outils qui nous ont permis de concevoir notre site web. Quelques interfaces y seront présentées.
+\end{itemize}
 
 \newpage
 
@@ -602,6 +597,52 @@ Cela consiste à présenter le diagramme de cas d’utilisation décrivant les s
 \caption{Développement en cascade}
 \end{figure}
 
+\section{L'objectif}
+\hspace*{0.16in}
+Pour bien comprendre la technologie de Next.Js, nous avons opté la réalisation d’une application web qui répondre aux attentes suivantes :
+
+\begin{itemize}
+    \item Développer un plan d’étude avec une bonne analyse du problème posé.
+    \item Planifier les différentes étapes de conception du projet.
+    \item Réaliser une application englobant le maximum de tâches fonctionnelles avec des solutions optimales.
+    \item Permettre à l’administrateur de gérer la base de données.
+    \item Assure la sécurité de l'application.
+\end{itemize}
+
+\newpage
+
+\vspace*{-0.62in}
+\section{Spécification des besoins}
+\hspace*{0.16in}
+La phase de spécification des besoins est la première phase formelle obligatoire dans le développement d’une application informatique puisque la capacité de persuasion d’un produit ne peut se réaliser parfaitement sans une spécification préalable élaborée des besoins et des exigences.
+
+\subsection{Les besoins fonctionnels}
+\hspace*{0.16in}
+Les besoins fonctionnels servent à présenter les actions que doit effectuer le système en réponse à une demande présentée par un utilisateur.
+\\
+Notre application doit répondre aux exigences suivantes :
+
+\begin{itemize}
+    \item L’application doit permettre aux clients de consulter le site ainsi que rechercher des chambres sans l’authentification.
+    \item Pour réserver une chambre le client doit s’authentifier.
+    \item Le client peut annuler ça réservation.
+    \item Administrateur gère les comptes des clients.
+    \item L’application doit permettre à l'administrateur de gérer les chambres avec la possibilité d’ajouter ou supprimer ou modifier une chambre.
+\end{itemize}
+
+\subsection{Les besoins non-fonctionnels}
+\hspace*{0.16in}
+Les besoins non fonctionnels décrivent les objectifs liés aux performances du système et aux contraintes de son environnement. Ses exigences techniques sont souvent exprimées sous forme d’objectifs spécifiques que doit atteindre le système.
+
+\begin{itemize}
+    \item \textbf{La sécurité :} L’application doit tenir compte de confidentialité des données des utilisateurs.
+    \item \textbf{La performance :} Temps de réponse court (une réponse aux requêtes doit être rapide pour minimiser le temps d’attente de l’utilisateur).
+    \item \textbf{La fiabilité :} Minimiser des risques et des erreurs afin d’assurer le bon fonctionnement du système.
+    \item \textbf{Ergonomie et convivialité :} L’application doit fournir une interface simple et élégante pour l’utilisateur afin de faciliter l’exploitation des services de l’application.
+    \item \textbf{Guidage :} L’ensemble des moyens mis en œuvre pour orienter, informer les utilisateurs lors de ses interactions avec l’application.
+\end{itemize}
+
+\newpage
 
 \section{Langage de modélisation}
 \subsection{UML}
@@ -617,9 +658,7 @@ Cela consiste à présenter le diagramme de cas d’utilisation décrivant les s
   \caption{Logo UML (Unified Modeling Language)}
 \end{figure}
 
-\newpage
-
-
+\vspace*{-0.2in}
 \section{Les diagrammes utilisés}
 \hspace*{0.16in}
 Pour mieux concevoir notre application, nous avons besoin d’utiliser les trois types de diagrammes suivants :
@@ -660,7 +699,6 @@ Comme tous les autres diagrammes, les diagrammes de cas d'utilisation peuvent co
 \hspace*{0.16in}
 Les diagrammes de cas d'utilisation peuvent également contenir des packages, qui sont utilisés pour regrouper des éléments de votre modèle en blocs plus volumineux. Parfois, vous souhaiterez également placer des instances de cas d'utilisation dans vos diagrammes, en particulier lorsque vous souhaitez visualiser un système d'exécution spécifique.\textsuperscript{\cite{booch2005unified}}
 
-\vspace{0.2in}
 
 \begin{figure}[h]
 \centering
@@ -668,6 +706,7 @@ Les diagrammes de cas d'utilisation peuvent également contenir des packages, qu
     \caption{Exemple de cas d'utilisation}
 \end{figure}
 
+\vspace*{-0.4in}
 \subsection{Identifications des acteurs}
 \hspace*{0.16in}
 Avant d’entamer la présentation des diagrammes, il faut identifier les acteurs qui interagissent directement avec le système. Un acteur est une entité externe qui peut être un utilisateur humain, un dispositif matériel ou un autre système.
@@ -679,9 +718,20 @@ Dans notre système on distingue deux acteurs principaux :
     \item Clients : c'est lui qui va réserver ou bien consulter le site web afin d'authentifier.
 \end{itemize}
 
-\subsection{Identification des cas d’utilisation}
-
 \newpage
+
+\vspace*{-0.6in}
+\subsection{Identification des cas d’utilisation}
+\hspace*{0.16in}
+Un cas d'utilisation (en anglais use case) permet de mettre en évidence les relations fonctionnelles entre les acteurs et le système étudié. Le diagramme de cas d'utilisation permet de représenter visuellement une séquence d'actions réalisées par un système.
+
+Voici quelques cas d’utilisation de notre système :
+
+\begin{itemize}
+    \item Gérer les comptes clients. Gérer les chambres.
+    \item Rechercher une chambre, Réserver une chambre….
+\end{itemize}
+
 
 \subsection{Diagramme de cas d’utilisation général}
 
