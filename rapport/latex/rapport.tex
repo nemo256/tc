@@ -445,9 +445,8 @@ Le code d’un composant peut être séparé en deux parties :
     \item Les méthodes accessible (les interfaces) est le moyen de communication avec le code client, ou chaque composant possède des interfaces fournie et requise.
 \end{itemize}
 
-\subsection{Les avantages et les inconvénients de la programmation orientée composants}
+\subsection{Les avantages de la programmation orientée composants}
 \vspace{0.1in}
-Les avantages de programmation orientée composants :
 
 \begin{itemize}
     \item \textbf{Spécialisation :} L'équipe de développement peut être divisée en sous-groupes, chacun se spécialisant dans le développement d'un composant.
@@ -461,14 +460,14 @@ Les avantages de programmation orientée composants :
 \end{itemize}
 
 \vspace{0.1in}
-Les inconvénients de la programmation orientée composants :
+
+\subsection{Les inconvénients de la programmation orientée composants}
 \vspace{0.1in}
-
-% Hna hadi de preference tkun list kima les avantages (Moh)
-
-Lorsqu’on parle de réutilisation, de facilité de déploiement, c'est que le développement est achevé du moins bien entamé. Mais factoriser un logiciel en composants nécessite un important travail d'analyse. La rédaction des signatures des méthodes devra être particulièrement soignée, car modifier une signature nécessitera de retravailler toutes les portions de codes du projet qui font appel au composant, et l'on perdrait alors les bénéfices de l'indépendance des briques logicielles.
+\hspace*{0.16in}
+Le découpage fonctionnel d’une application en divers composants doit être mené de manière très rigoureuse, tout en pensant au fait que le composant doit être réutilisable, c’est à dire penser également à son utilisation future. Ceci peut amener un système développé en employant la méthode de programmation orientée composants à consommer sensiblement plus de ressources qu’une application programmée avec une méthode traditionnelle.
 \\
-Le fait de ne pas connaître l'implémentation d'un composant (à moins d'avoir accès à la source), peut également gêner certains chefs de projets qui veulent garder un contrôle total sur leur logiciel.
+En effet, le système de communication entre les composants est plus coûteux en temps de calcul qu’un simple appel de fonction.
+
 
 \subsection{Les modèles à composants}
 \hspace*{0.16in}
