@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  30 DEC 2021 17:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  30 DEC 2021 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1013,7 +1013,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<../images/UnivUMBB.jpg, id=157, 513.92pt x 379.4175pt>
+<../images/UnivUMBB.jpg, id=178, 513.92pt x 379.4175pt>
 File: ../images/UnivUMBB.jpg Graphic file (type jpg)
 <use ../images/UnivUMBB.jpg>
 Package pdftex.def Info: ../images/UnivUMBB.jpg  used on input line 230.
@@ -1215,6 +1215,20 @@ Overfull \hbox (7.77257pt too wide) detected at line 45
 LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
 (Font)              using `T1/ptm/m/sc' instead on input line 47.
 
+
+Overfull \hbox (7.77257pt too wide) detected at line 50
+\T1/ptm/m/n/12 2.1 
+ []
+
+
+Overfull \hbox (7.77257pt too wide) detected at line 51
+\T1/ptm/m/n/12 2.2 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 61.
+
 )
 \tf@toc=\write5
 \openout5 = `rapport.toc'.
@@ -1294,7 +1308,7 @@ l.584 \section{Introduction}
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
-<../images/analyse_conception.png, id=341, 931.48pt x 707.64375pt>
+<../images/analyse_conception.png, id=376, 931.48pt x 707.64375pt>
 File: ../images/analyse_conception.png Graphic file (type png)
 <use ../images/analyse_conception.png>
 Package pdftex.def Info: ../images/analyse_conception.png  used on input line 5
@@ -1336,7 +1350,7 @@ ignored
                    \relax 
 l.647 \subsection{UML}
                       
-<../images/UMLlogo.png, id=352, 1204.5pt x 876.27374pt>
+<../images/UMLlogo.png, id=387, 1204.5pt x 876.27374pt>
 File: ../images/UMLlogo.png Graphic file (type png)
 <use ../images/UMLlogo.png>
 Package pdftex.def Info: ../images/UMLlogo.png  used on input line 656.
@@ -1352,19 +1366,19 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 661.
 
 [11 </home/nemo/Work/tc/rapport/latex/../images/UMLlogo.png>]
-<../images/usecaseEG.png, id=361, 244.915pt x 94.3525pt>
+<../images/usecaseEG.png, id=396, 244.915pt x 94.3525pt>
 File: ../images/usecaseEG.png Graphic file (type png)
 <use ../images/usecaseEG.png>
 Package pdftex.def Info: ../images/usecaseEG.png  used on input line 704.
 (pdftex.def)             Requested size: 216.81514pt x 72.27011pt.
  [12 </home/nemo/Work/tc/rapport/latex/../images/usecaseEG.png (PNG copy)>]
-<../images/UCD.png, id=369, 806.01125pt x 885.3075pt>
+<../images/UCD.png, id=404, 806.01125pt x 885.3075pt>
 File: ../images/UCD.png Graphic file (type png)
 <use ../images/UCD.png>
 Package pdftex.def Info: ../images/UCD.png  used on input line 740.
 (pdftex.def)             Requested size: 476.98146pt x 505.90033pt.
  [13 </home/nemo/Work/tc/rapport/latex/../images/UCD.png>]
-<../images/components.png, id=375, 1099.10625pt x 804.00375pt>
+<../images/components.png, id=410, 1099.10625pt x 804.00375pt>
 File: ../images/components.png Graphic file (type png)
 <use ../images/components.png>
 Package pdftex.def Info: ../images/components.png  used on input line 762.
@@ -1372,26 +1386,65 @@ Package pdftex.def Info: ../images/components.png  used on input line 762.
  [14 </home/nemo/Work/tc/rapport/latex/../images/components.png>] [15] [16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 800.
+(hyperref)                removing `\@ifnextchar' on input line 798.
+
+[17]pdfTeX warning (ext4): destination with the same identifier (name{section.0
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.803 \section{Introduction}
+                            pdfTeX warning (ext4): destination with the same id
+entifier (name{section.0.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.808 \section{L’environnement de travail}
+                                            pdfTeX warning (ext4): destination 
+with the same identifier (name{subsection.0.2.1}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.812 \subsection{L’environnement matériel}
+                                              pdfTeX warning (ext4): destinatio
+n with the same identifier (name{subsection.0.2.2}) has been already used, dupl
+icate ignored
+<to be read again> 
+                   \relax 
+l.817 \subsection{L’environnement logiciel}
+                                              [18]pdfTeX warning (ext4): destin
+ation with the same identifier (name{section.0.3}) has been already used, dupli
+cate ignored
+<to be read again> 
+                   \relax 
+l.857 \section{Exposition de travail réalisé}
+                                               pdfTeX warning (ext4): destinati
+on with the same identifier (name{section.0.4}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.862 \section{Conclusion}
+                           [19]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 880.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 800.
+(hyperref)                removing `\@ifnextchar' on input line 880.
 
-[17] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
+[20] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
 
 AED: lastpage setting LastPage
-[18
+[21
 
 ] (/home/nemo/Work/tc/rapport/latex/rapport.aux)
 Package rerunfilecheck Info: File `rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 12AB5D57F42E718A362542306F9B5250;7177.
+(rerunfilecheck)             Checksum: 8E964E67F783797E6FDFA932466D93F9;8416.
  ) 
 Here is how much of TeX's memory you used:
- 26862 strings out of 478353
- 488791 string characters out of 5854634
+ 26874 strings out of 478353
+ 488972 string characters out of 5854634
  866206 words of memory out of 5000000
- 44411 multiletter control sequences out of 15000+600000
+ 44413 multiletter control sequences out of 15000+600000
  476387 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,80p,949b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1399,11 +1452,11 @@ Here is how much of TeX's memory you used:
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb
 i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (25 pages, 40774
-0 bytes).
+Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (28 pages, 41359
+8 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 348 compressed objects within 4 object streams
- 61 named destinations out of 1000 (max. 500000)
- 363 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 497 PDF objects out of 1000 (max. 8388607)
+ 396 compressed objects within 4 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 419 words of extra memory for PDF output out of 10000 (max. 10000000)
 
