@@ -49,13 +49,13 @@
 \contentsline {section}{\numberline {2}L\IeC {\textquoteright }environnement mat\IeC {\'e}riel}{18}{section.0.2}%
 \contentsline {section}{\numberline {3}L\IeC {\textquoteright }environnement logiciel}{18}{section.0.3}%
 \contentsline {subsection}{\numberline {3.1}Visual studio Code}{18}{subsection.0.3.1}%
-\contentsline {subsection}{\numberline {3.2}Vim}{18}{subsection.0.3.2}%
-\contentsline {subsection}{\numberline {3.3}Visual Paradigme}{18}{subsection.0.3.3}%
-\contentsline {subsection}{\numberline {3.4}JavaScript}{18}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.2}Neovim}{18}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Visual Paradigme}{19}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}JavaScript}{19}{subsection.0.3.4}%
 \contentsline {subsection}{\numberline {3.5}React}{19}{subsection.0.3.5}%
 \contentsline {subsection}{\numberline {3.6}NextJs}{19}{subsection.0.3.6}%
-\contentsline {subsection}{\numberline {3.7}ChakraUi}{19}{subsection.0.3.7}%
-\contentsline {section}{\numberline {4}Exposition de travail r\IeC {\'e}alis\IeC {\'e}}{19}{section.0.4}%
-\contentsline {section}{\numberline {5}Conclusion}{19}{section.0.5}%
-\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{20}{section.0.5}%
+\contentsline {subsection}{\numberline {3.7}ChakraUi}{20}{subsection.0.3.7}%
+\contentsline {section}{\numberline {4}Exposition de travail r\IeC {\'e}alis\IeC {\'e}}{20}{section.0.4}%
+\contentsline {section}{\numberline {5}Conclusion}{20}{section.0.5}%
+\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{21}{section.0.5}%
 \contentsfinish 
