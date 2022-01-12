@@ -46,17 +46,16 @@
 \contentsline {section}{\numberline {9}Conclusion}{16}{section.0.9}%
 \contentsline {chapter}{\color {Blue}{Chapitre III : Impl\IeC {\'e}mentation}}{17}{section.0.9}%
 \contentsline {section}{\numberline {1}Introduction}{18}{section.0.1}%
-\contentsline {section}{\numberline {2}L\IeC {\textquoteright }environnement de travail}{18}{section.0.2}%
-\contentsline {subsection}{\numberline {2.1}L\IeC {\textquoteright }environnement mat\IeC {\'e}riel}{18}{subsection.0.2.1}%
-\contentsline {subsection}{\numberline {2.2}L\IeC {\textquoteright }environnement logiciel}{18}{subsection.0.2.2}%
-\contentsline {subsubsection}{Visual studio Code}{18}{subsubsection*.10}%
-\contentsline {subsubsection}{Vim}{18}{subsubsection*.11}%
-\contentsline {subsubsection}{Visual Paradigme}{18}{subsubsection*.12}%
-\contentsline {subsubsection}{JavaScript}{19}{subsubsection*.13}%
-\contentsline {subsubsection}{React}{19}{subsubsection*.14}%
-\contentsline {subsubsection}{NextJs}{19}{subsubsection*.15}%
-\contentsline {subsubsection}{ChakraUi}{19}{subsubsection*.16}%
-\contentsline {section}{\numberline {3}Exposition de travail r\IeC {\'e}alis\IeC {\'e}}{19}{section.0.3}%
-\contentsline {section}{\numberline {4}Conclusion}{19}{section.0.4}%
-\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{20}{section.0.4}%
+\contentsline {section}{\numberline {2}L\IeC {\textquoteright }environnement mat\IeC {\'e}riel}{18}{section.0.2}%
+\contentsline {section}{\numberline {3}L\IeC {\textquoteright }environnement logiciel}{18}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Visual studio Code}{18}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Vim}{18}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Visual Paradigme}{18}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}JavaScript}{18}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}React}{19}{subsection.0.3.5}%
+\contentsline {subsection}{\numberline {3.6}NextJs}{19}{subsection.0.3.6}%
+\contentsline {subsection}{\numberline {3.7}ChakraUi}{19}{subsection.0.3.7}%
+\contentsline {section}{\numberline {4}Exposition de travail r\IeC {\'e}alis\IeC {\'e}}{19}{section.0.4}%
+\contentsline {section}{\numberline {5}Conclusion}{19}{section.0.5}%
+\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{20}{section.0.5}%
 \contentsfinish 
