@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  11 JAN 2022 20:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  12 JAN 2022 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1013,7 +1013,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<../images/UnivUMBB.jpg, id=204, 513.92pt x 379.4175pt>
+<../images/UnivUMBB.jpg, id=201, 513.92pt x 379.4175pt>
 File: ../images/UnivUMBB.jpg Graphic file (type jpg)
 <use ../images/UnivUMBB.jpg>
 Package pdftex.def Info: ../images/UnivUMBB.jpg  used on input line 230.
@@ -1179,43 +1179,43 @@ LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
 (Font)              using `T1/ptm/m/sc' instead on input line 47.
 
 
+Overfull \hbox (7.77257pt too wide) detected at line 51
+\T1/ptm/m/n/12 3.1 
+ []
+
+
 Overfull \hbox (7.77257pt too wide) detected at line 52
-\T1/ptm/m/n/12 4.1 
+\T1/ptm/m/n/12 3.2 
  []
 
 
 Overfull \hbox (7.77257pt too wide) detected at line 53
-\T1/ptm/m/n/12 4.2 
+\T1/ptm/m/n/12 3.3 
  []
 
 
 Overfull \hbox (7.77257pt too wide) detected at line 54
-\T1/ptm/m/n/12 4.3 
+\T1/ptm/m/n/12 3.4 
  []
 
 
 Overfull \hbox (7.77257pt too wide) detected at line 55
-\T1/ptm/m/n/12 4.4 
+\T1/ptm/m/n/12 3.5 
  []
 
 
 Overfull \hbox (7.77257pt too wide) detected at line 56
-\T1/ptm/m/n/12 4.5 
+\T1/ptm/m/n/12 3.6 
  []
 
 
 Overfull \hbox (7.77257pt too wide) detected at line 57
-\T1/ptm/m/n/12 4.6 
- []
-
-
-Overfull \hbox (7.77257pt too wide) detected at line 58
-\T1/ptm/m/n/12 4.7 
+\T1/ptm/m/n/12 3.7 
  []
 
 
 LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
-(Font)              using `T1/ptm/m/sc' instead on input line 61.
+(Font)              using `T1/ptm/m/sc' instead on input line 60.
 
 )
 \tf@toc=\write5
@@ -1333,7 +1333,7 @@ l.583 \section{Introduction}
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
-<../images/analyse_conception.png, id=414, 931.48pt x 707.64375pt>
+<../images/analyse_conception.png, id=409, 931.48pt x 707.64375pt>
 File: ../images/analyse_conception.png Graphic file (type png)
 <use ../images/analyse_conception.png>
 Package pdftex.def Info: ../images/analyse_conception.png  used on input line 5
@@ -1375,7 +1375,7 @@ ignored
                    \relax 
 l.646 \subsection{UML}
                       
-<../images/UMLlogo.png, id=425, 1204.5pt x 876.27374pt>
+<../images/UMLlogo.png, id=420, 1204.5pt x 876.27374pt>
 File: ../images/UMLlogo.png Graphic file (type png)
 <use ../images/UMLlogo.png>
 Package pdftex.def Info: ../images/UMLlogo.png  used on input line 655.
@@ -1391,25 +1391,25 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 660.
 
 [11 </home/nemo/Work/tc/rapport/latex/../images/UMLlogo.png>]
-<../images/usecaseEG.png, id=434, 244.915pt x 94.3525pt>
+<../images/usecaseEG.png, id=429, 244.915pt x 94.3525pt>
 File: ../images/usecaseEG.png Graphic file (type png)
 <use ../images/usecaseEG.png>
 Package pdftex.def Info: ../images/usecaseEG.png  used on input line 703.
 (pdftex.def)             Requested size: 216.81514pt x 72.27011pt.
  [12 </home/nemo/Work/tc/rapport/latex/../images/usecaseEG.png (PNG copy)>]
-<../images/usecase.png, id=442, 795.97375pt x 886.31125pt>
+<../images/usecase.png, id=437, 795.97375pt x 886.31125pt>
 File: ../images/usecase.png Graphic file (type png)
 <use ../images/usecase.png>
 Package pdftex.def Info: ../images/usecase.png  used on input line 739.
 (pdftex.def)             Requested size: 476.98067pt x 505.89238pt.
  [13 </home/nemo/Work/tc/rapport/latex/../images/usecase.png>]
-<../images/components.png, id=448, 1291.82625pt x 490.83376pt>
+<../images/components.png, id=443, 1291.82625pt x 490.83376pt>
 File: ../images/components.png Graphic file (type png)
 <use ../images/components.png>
 Package pdftex.def Info: ../images/components.png  used on input line 760.
 (pdftex.def)             Requested size: 549.24557pt x 260.17809pt.
  [14 </home/nemo/Work/tc/rapport/latex/../images/components.png>]
-<../images/deployment.png, id=455, 894.34125pt x 476.78125pt>
+<../images/deployment.png, id=450, 894.34125pt x 476.78125pt>
 File: ../images/deployment.png Graphic file (type png)
 <use ../images/deployment.png>
 Package pdftex.def Info: ../images/deployment.png  used on input line 778.
@@ -1479,44 +1479,26 @@ AED: lastpage setting LastPage
 [21
 
 ] (/home/nemo/Work/tc/rapport/latex/rapport.aux)
-
-Package rerunfilecheck Warning: File `rapport.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `rapport.out':
-(rerunfilecheck)             Before: FF4409B70547D660D25653A03C738A82;9169
-(rerunfilecheck)             After:  2BF7C31EC697BE1FD09026BCE63BC049;8973.
+Package rerunfilecheck Info: File `rapport.out' has not changed.
+(rerunfilecheck)             Checksum: 2BF7C31EC697BE1FD09026BCE63BC049;8973.
  ) 
 Here is how much of TeX's memory you used:
- 26885 strings out of 478353
- 489245 string characters out of 5854634
- 868206 words of memory out of 5000000
+ 26881 strings out of 478353
+ 489181 string characters out of 5854634
+ 867206 words of memory out of 5000000
  44421 multiletter control sequences out of 15000+600000
  476387 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,80p,949b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection.0.4.7} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.4.6} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.4.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.4.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts
-/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8
-a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf
--dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (28 pages, 42781
-2 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
+ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb
+i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (28 pages, 42762
+1 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
- 428 compressed objects within 5 object streams
- 73 named destinations out of 1000 (max. 500000)
- 480 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 418 compressed objects within 5 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 472 words of extra memory for PDF output out of 10000 (max. 10000000)
 
