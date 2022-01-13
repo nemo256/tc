@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  12 JAN 2022 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  13 JAN 2022 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1333,7 +1333,7 @@ l.583 \section{Introduction}
 (/usr/share/texmf-dist/tex/latex/ucs/data/uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
 )
-<../images/analyse_conception.png, id=423, 931.48pt x 707.64375pt>
+<../images/analyse_conception.png, id=425, 931.48pt x 707.64375pt>
 File: ../images/analyse_conception.png Graphic file (type png)
 <use ../images/analyse_conception.png>
 Package pdftex.def Info: ../images/analyse_conception.png  used on input line 5
@@ -1375,7 +1375,7 @@ ignored
                    \relax 
 l.646 \subsection{UML}
                       
-<../images/UMLlogo.png, id=434, 1204.5pt x 876.27374pt>
+<../images/UMLlogo.png, id=436, 1204.5pt x 876.27374pt>
 File: ../images/UMLlogo.png Graphic file (type png)
 <use ../images/UMLlogo.png>
 Package pdftex.def Info: ../images/UMLlogo.png  used on input line 655.
@@ -1391,25 +1391,25 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 660.
 
 [11 </home/nemo/Work/tc/rapport/latex/../images/UMLlogo.png>]
-<../images/usecaseEG.png, id=443, 244.915pt x 94.3525pt>
+<../images/usecaseEG.png, id=445, 244.915pt x 94.3525pt>
 File: ../images/usecaseEG.png Graphic file (type png)
 <use ../images/usecaseEG.png>
 Package pdftex.def Info: ../images/usecaseEG.png  used on input line 703.
 (pdftex.def)             Requested size: 216.81514pt x 72.27011pt.
  [12 </home/nemo/Work/tc/rapport/latex/../images/usecaseEG.png (PNG copy)>]
-<../images/usecase.png, id=451, 795.97375pt x 886.31125pt>
+<../images/usecase.png, id=453, 795.97375pt x 886.31125pt>
 File: ../images/usecase.png Graphic file (type png)
 <use ../images/usecase.png>
 Package pdftex.def Info: ../images/usecase.png  used on input line 739.
 (pdftex.def)             Requested size: 476.98067pt x 505.89238pt.
  [13 </home/nemo/Work/tc/rapport/latex/../images/usecase.png>]
-<../images/components.png, id=457, 1291.82625pt x 490.83376pt>
+<../images/components.png, id=459, 1291.82625pt x 490.83376pt>
 File: ../images/components.png Graphic file (type png)
 <use ../images/components.png>
 Package pdftex.def Info: ../images/components.png  used on input line 760.
 (pdftex.def)             Requested size: 549.24557pt x 260.17809pt.
  [14 </home/nemo/Work/tc/rapport/latex/../images/components.png>]
-<../images/deployment.png, id=464, 894.34125pt x 476.78125pt>
+<../images/deployment.png, id=466, 894.34125pt x 476.78125pt>
 File: ../images/deployment.png Graphic file (type png)
 <use ../images/deployment.png>
 Package pdftex.def Info: ../images/deployment.png  used on input line 778.
@@ -1434,101 +1434,101 @@ ith the same identifier (name{section.0.3}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.819 \section{L’environnement logiciel}
+l.840 \section{L’environnement logiciel}
                                           pdfTeX warning (ext4): destination wi
 th the same identifier (name{subsection.0.3.1}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.824 \subsection{Visual studio Code}
-                                     
-<../images/VScode.jpg, id=481, 225.84375pt x 225.84375pt>
+l.845 \subsection{Visual studio Code}
+                                      [18]
+<../images/VScode.jpg, id=489, 225.84375pt x 225.84375pt>
 File: ../images/VScode.jpg Graphic file (type jpg)
 <use ../images/VScode.jpg>
-Package pdftex.def Info: ../images/VScode.jpg  used on input line 833.
+Package pdftex.def Info: ../images/VScode.jpg  used on input line 854.
 (pdftex.def)             Requested size: 57.81511pt x 43.36218pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subsection.0.
 3.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.837 \subsection{Neovim}
+l.858 \subsection{Neovim}
                          
-<../images/Neovim.png, id=482, 1204.5pt x 1475.5125pt>
+<../images/Neovim.png, id=490, 1204.5pt x 1475.5125pt>
 File: ../images/Neovim.png Graphic file (type png)
 <use ../images/Neovim.png>
-Package pdftex.def Info: ../images/Neovim.png  used on input line 846.
+Package pdftex.def Info: ../images/Neovim.png  used on input line 867.
 (pdftex.def)             Requested size: 57.80247pt x 43.34036pt.
- [18 </home/nemo/Work/tc/rapport/latex/../images/VScode.jpg> </home/nemo/Work/t
-c/rapport/latex/../images/Neovim.png>]pdfTeX warning (ext4): destination with t
-he same identifier (name{subsection.0.3.3}) has been already used, duplicate ig
-nored
+pdfTeX warning (ext4): destination with the same identifier (name{subsection.0.
+3.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.852 \subsection{Visual Paradigme}
+l.871 \subsection{Visual Paradigme}
                                    
-<../images/visualParadigm.png, id=490, 513.92pt x 513.92pt>
+<../images/visualParadigm.png, id=491, 513.92pt x 513.92pt>
 File: ../images/visualParadigm.png Graphic file (type png)
 <use ../images/visualParadigm.png>
-Package pdftex.def Info: ../images/visualParadigm.png  used on input line 861.
+Package pdftex.def Info: ../images/visualParadigm.png  used on input line 880.
 (pdftex.def)             Requested size: 72.26982pt x 57.80957pt.
-<../images/javascript.png, id=491, 1505.625pt x 1629.08624pt>
+<../images/javascript.png, id=492, 1505.625pt x 1629.08624pt>
 File: ../images/javascript.png Graphic file (type png)
 <use ../images/javascript.png>
-Package pdftex.def Info: ../images/javascript.png  used on input line 874.
-(pdftex.def)             Requested size: 72.2531pt x 79.49532pt.
-<../images/react.png, id=492, 237.88875pt x 212.795pt>
+Package pdftex.def Info: ../images/javascript.png  used on input line 893.
+(pdftex.def)             Requested size: 72.2531pt x 72.26169pt.
+ [19 </home/nemo/Work/tc/rapport/latex/../images/VScode.jpg> </home/nemo/Work/t
+c/rapport/latex/../images/Neovim.png> </home/nemo/Work/tc/rapport/latex/../imag
+es/visualParadigm.png> </home/nemo/Work/tc/rapport/latex/../images/javascript.p
+ng>]
+<../images/react.png, id=501, 237.88875pt x 212.795pt>
 File: ../images/react.png Graphic file (type png)
 <use ../images/react.png>
-Package pdftex.def Info: ../images/react.png  used on input line 887.
+Package pdftex.def Info: ../images/react.png  used on input line 908.
 (pdftex.def)             Requested size: 65.0439pt x 57.81583pt.
- [19 </home/nemo/Work/tc/rapport/latex/../images/visualParadigm.png> </home/nem
-o/Work/tc/rapport/latex/../images/javascript.png> </home/nemo/Work/tc/rapport/l
-atex/../images/react.png>]
-<../images/NextJS.png, id=501, 291.0875pt x 174.6525pt>
+<../images/NextJS.png, id=502, 291.0875pt x 174.6525pt>
 File: ../images/NextJS.png Graphic file (type png)
 <use ../images/NextJS.png>
-Package pdftex.def Info: ../images/NextJS.png  used on input line 900.
+Package pdftex.def Info: ../images/NextJS.png  used on input line 919.
 (pdftex.def)             Requested size: 86.72285pt x 57.81671pt.
-<../images/chakraUI.jpg, id=502, 444.66125pt x 114.4275pt>
+<../images/chakraUI.jpg, id=503, 444.66125pt x 114.4275pt>
 File: ../images/chakraUI.jpg Graphic file (type jpg)
 <use ../images/chakraUI.jpg>
-Package pdftex.def Info: ../images/chakraUI.jpg  used on input line 913.
+Package pdftex.def Info: ../images/chakraUI.jpg  used on input line 932.
 (pdftex.def)             Requested size: 144.54033pt x 43.36241pt.
 pdfTeX warning (ext4): destination with the same identifier (name{section.0.4})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.917 \section{Exposition de travail réalisé}
-                                               pdfTeX warning (ext4): destinati
-on with the same identifier (name{section.0.5}) has been already used, duplicat
-e ignored
+l.936 \section{Exposition de travail réalisé}
+                                                [20 </home/nemo/Work/tc/rapport
+/latex/../images/react.png> </home/nemo/Work/tc/rapport/latex/../images/NextJS.
+png> </home/nemo/Work/tc/rapport/latex/../images/chakraUI.jpg>]pdfTeX warning (
+ext4): destination with the same identifier (name{section.0.5}) has been alread
+y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.922 \section{Conclusion}
-                           [20 </home/nemo/Work/tc/rapport/latex/../images/Next
-JS.png> </home/nemo/Work/tc/rapport/latex/../images/chakraUI.jpg>]
+l.943 \section{Conclusion}
+                           [21]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 940.
+(hyperref)                removing `\new@ifnextchar' on input line 961.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 940.
+(hyperref)                removing `\@ifnextchar' on input line 961.
 
-[21] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
+[22] (/home/nemo/Work/tc/rapport/latex/rapport.bbl)
 
 AED: lastpage setting LastPage
-[22
+[23
 
 ] (/home/nemo/Work/tc/rapport/latex/rapport.aux)
 Package rerunfilecheck Info: File `rapport.out' has not changed.
 (rerunfilecheck)             Checksum: 4D64CC2329C8003068A7FE3029134FF1;8988.
  ) 
 Here is how much of TeX's memory you used:
- 26938 strings out of 478353
- 490525 string characters out of 5854634
- 867206 words of memory out of 5000000
- 44463 multiletter control sequences out of 15000+600000
+ 26942 strings out of 478353
+ 490560 string characters out of 5854634
+ 867259 words of memory out of 5000000
+ 44465 multiletter control sequences out of 15000+600000
  476387 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,80p,949b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1536,11 +1536,11 @@ Here is how much of TeX's memory you used:
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb
 i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (29 pages, 63603
-6 bytes).
+Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (30 pages, 63734
+4 bytes).
 PDF statistics:
- 560 PDF objects out of 1000 (max. 8388607)
- 438 compressed objects within 5 object streams
- 77 named destinations out of 1000 (max. 500000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 445 compressed objects within 5 object streams
+ 79 named destinations out of 1000 (max. 500000)
  507 words of extra memory for PDF output out of 10000 (max. 10000000)
 
