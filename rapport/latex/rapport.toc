@@ -56,6 +56,10 @@
 \contentsline {subsection}{\numberline {3.6}NextJs}{20}{subsection.0.3.6}%
 \contentsline {subsection}{\numberline {3.7}ChakraUi}{20}{subsection.0.3.7}%
 \contentsline {section}{\numberline {4}Exposition de travail r\IeC {\'e}alis\IeC {\'e}}{20}{section.0.4}%
-\contentsline {section}{\numberline {5}Conclusion}{21}{section.0.5}%
-\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{22}{section.0.5}%
+\contentsline {subsection}{\numberline {4.1}Page d'accueil}{21}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Page chambres}{23}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.3}Page contacter-nous}{24}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {4.4}Les pages Web r\IeC {\'e}actives}{25}{subsection.0.4.4}%
+\contentsline {section}{\numberline {5}Conclusion}{25}{section.0.5}%
+\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{26}{section.0.5}%
 \contentsfinish 
