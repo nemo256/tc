@@ -107,7 +107,7 @@
 
 % List of Figures settings:
 \renewcommand{\listfigurename}{Liste Des Figures}
-\renewcommand{\cftloftitlefont}{\vspace*{-0.6in}\hfill\color{Blue}\fontsize{35}{43}\bfseries}
+\renewcommand{\cftloftitlefont}{\vspace*{-0.6in}\hfill\color{Black}\fontsize{35}{43}\bfseries}
 \renewcommand{\cftafterloftitle}{\hfill}
 \setlength{\cftfigindent}{0pt} % left aligned Fig entries
 \renewcommand{\cftfigpresnum}{Figure } % put before the number
@@ -116,7 +116,7 @@
 
 % List of Tables settings:
 \renewcommand{\listtablename}{Liste Des Tableaux}
-\renewcommand{\cftlottitlefont}{\vspace*{-0.6in}\hfill\color{Blue}\fontsize{35}{43}\bfseries}
+\renewcommand{\cftlottitlefont}{\vspace*{-0.6in}\hfill\color{Black}\fontsize{35}{43}\bfseries}
 \renewcommand{\cftafterlottitle}{\hfill}
 \setlength{\cfttabindent}{0pt} % left aligned Tab entries
 \renewcommand{\cfttabpresnum}{Tableau } % put before the number
@@ -169,19 +169,19 @@
 \patchcmd{\chapter}{\thispagestyle{empty}}{\thispagestyle{myfancy}}{}{}
 
 \titleformat{\chapter}
-{\centering\fontsize{40}{50}\bfseries\color{Blue}\scshape}
+{\centering\fontsize{40}{50}\bfseries\color{Black}\scshape}
 {}
 {}
-{\vspace{-1.7in}{\color{Blue} \rule{\linewidth}{1.2mm} }}[\vspace{-0.35in}{\color{Blue} \rule{\linewidth}{1.2mm} }\vspace{-1in}]
+{\vspace{-1.7in}{\color{Black} \rule{\linewidth}{1.2mm} }}[\vspace{-0.35in}{\color{Black} \rule{\linewidth}{1.2mm} }\vspace{-1in}]
 
 \titleformat{\section}
-{\Large\bfseries\color{MidnightBlue}}
+{\Large\bfseries\color{Black}}
 {\thesection.\hspace{0.08in}}
 {0em}
 {}[\titlerule]
 
 \titleformat{\subsection}
-{\large\bfseries\color{RoyalBlue}}
+{\large\bfseries\color{Black}}
 {\hspace{0.25in}\thesubsection\hspace{0.08in}}
 {0em}
 {}[]
@@ -266,7 +266,7 @@
 
         \begin{mdframed}[style=MyFrame]
             \begin{center}
-            \color{BlueViolet}
+            \color{Black}
               \LARGE{\textbf{Application de réservation d'hôtel}}
 
               \LARGE{\textbf{utilisant NextJS}}
@@ -297,13 +297,13 @@
 \thispagestyle{empty}
 
 \begin{center}
-    {\color{Blue} \rule{3in}{1.4mm} }\\
+    {\color{Black} \rule{3in}{1.4mm} }\\
     \vspace{0.1in}
-    \scshape{\fontsize{34}{46}{\bfseries{\color{Blue}{Résumé}}}}
+    \scshape{\fontsize{34}{46}{\bfseries{\color{Black}{Résumé}}}}
     \\
     \vspace{0.6in}
 \end{center}
-\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Blue}{Résumé}}{}
+\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Black}{Résumé}}{}
 \begin{changemargin}{0.9cm}{0.9cm}
 \hspace*{0.16in}
 Il existe de nombreuses technologies qui sont utilisées sur Internet pour partager des fichiers, chacune d’entre elles ont des fonctionnalités, des méthodes et des protocoles différents. Cependant, le plus commun et le plus facile est le Web qui a été établi par quelques fonctionnalités simples. Le Web se développe continuellement pour être aussi facile pour les utilisateurs. Les développeurs Web veulent créer une machine qui pense comme des humains en ajoutant de nouveaux outils, méthodes et protocoles au Web actuel.
@@ -327,13 +327,13 @@ Mots clés : Internet, Web, NextJS, Vercel, code.
 \thispagestyle{empty}
 
 \begin{center}
-    {\color{Blue} \rule{3in}{1.4mm} }\\
+    {\color{Black} \rule{3in}{1.4mm} }\\
     \vspace{0.1in}
-    \scshape{\fontsize{34}{46}{\bfseries{\color{Blue}{Abstract}}}}
+    \scshape{\fontsize{34}{46}{\bfseries{\color{Black}{Abstract}}}}
     \\
     \vspace{0.6in}
 \end{center}
-\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Blue}{Abstract}}{}
+\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Black}{Abstract}}{}
 \begin{changemargin}{0.9cm}{0.9cm}
 \hspace*{0.16in}
 There are many technologies which are used on the Internet to share files, each of them have different features, methods and protocols. However, the most common and easiest one is the Web which was established by a few simple features. The Web continuously developing to be as much as easy for the users. Web developers want to make a machine which thinks like humans by adding new tools, methods and protocols to the current Web.
@@ -353,17 +353,17 @@ Keywords: Internet, Web, NextJS, Vercel, code.
 
 \newpage
 
-\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Blue}{Table des matières}}{}
+\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Black}{Table des matières}}{}
 \tableofcontents
 
 \newpage
 
-\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Blue}{Liste des figures}}{}
+\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Black}{Liste des figures}}{}
 \listoffigures
 
 \newpage
 
-\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Blue}{Liste des tableaux}}{}
+\cftaddtitleline{toc}{part}{\vspace{-0.12in}\color{Black}{Liste des tableaux}}{}
 \listoftables
 
 \addtocontents{toc}{\protect\renewcommand{\protect\cftsecleader}{\protect\cftdotfill{\protect\cftsecdotsep}}}
@@ -381,13 +381,13 @@ Keywords: Internet, Web, NextJS, Vercel, code.
 \setcounter{page}{1}
 
 \begin{center}
-    {\color{Blue} \rule{6.2in}{1.4mm} }\\
+    {\color{Black} \rule{6.2in}{1.4mm} }\\
     \vspace{0.1in}
-    \scshape{\fontsize{34}{46}{\bfseries{\color{Blue}{Introduction générale}}}}
+    \scshape{\fontsize{34}{46}{\bfseries{\color{Black}{Introduction générale}}}}
     \\
     \vspace{0.5in}
 \end{center}
-\addcontentsline{toc}{chapter}{\vspace{-0.12in}\color{Blue}{Introduction générale}}
+\addcontentsline{toc}{chapter}{\vspace{-0.12in}\color{Black}{Introduction générale}}
 \hspace*{0.16in}
 Au dernier siècle, L'internet devient de plus en plus important pour nous les humains, car il est utilisé littéralement pour tout ce que nous faisons, nous y accédons quotidiennement pour faire diverses activités telles que faire des achats, communiquer, vérifier la map...Et pour cela on a besoin de sites Web pour faire de telles choses.
 \\\\
@@ -412,14 +412,14 @@ Dans ce document nous présentons trois chapitres :
 
 \vspace*{\fill}
 \begin{center}
-    {\color{Blue} \rule{\linewidth}{1.2mm} }\\
+    {\color{Black} \rule{\linewidth}{1.2mm} }\\
 \vspace{0.25in}
- {\centering\fontsize{30}{40}{\bfseries{\color{Blue}{\scshape{Chapitre I : Étude Général}}}}}
+ {\centering\fontsize{30}{40}{\bfseries{\color{Black}{\scshape{Chapitre I : Étude Général}}}}}
 \vspace{0.35in}\\
-    {\color{Blue} \rule{\linewidth}{1.2mm} }
+    {\color{Black} \rule{\linewidth}{1.2mm} }
 \end{center}
 \vspace*{\fill}
-\addcontentsline{toc}{chapter}{\color{Blue}{Chapitre I : Étude Général}}
+\addcontentsline{toc}{chapter}{\color{Black}{Chapitre I : Étude Général}}
 \setcounter{section}{0}
 
 \newpage
@@ -568,14 +568,14 @@ Dans ce chapitre introductif, nous avons présenté la programmation orientée d
 
 \vspace*{\fill}
 \begin{center}
-    {\color{Blue} \rule{\linewidth}{1.2mm} }\\
+    {\color{Black} \rule{\linewidth}{1.2mm} }\\
 \vspace{0.25in}
-    {\centering\fontsize{30}{40}{\bfseries{\color{Blue}{\scshape{Chapitre II : Analyse et Conception}}}}}
+    {\centering\fontsize{30}{40}{\bfseries{\color{Black}{\scshape{Chapitre II : Analyse et Conception}}}}}
 \vspace{0.35in}\\
-    {\color{Blue} \rule{\linewidth}{1.2mm} }
+    {\color{Black} \rule{\linewidth}{1.2mm} }
 \end{center}
 \vspace*{\fill}
-\addcontentsline{toc}{chapter}{\color{Blue}{Chapitre II : Analyse et Conception}}
+\addcontentsline{toc}{chapter}{\color{Black}{Chapitre II : Analyse et Conception}}
 \setcounter{section}{0}
 
 \newpage
@@ -792,14 +792,14 @@ Cette étude nous a permis de définir la structure de l’application et cela a
 
 \vspace*{\fill}
 \begin{center}
-    {\color{Blue} \rule{\linewidth}{1.2mm} }\\
+    {\color{Black} \rule{\linewidth}{1.2mm} }\\
 \vspace{0.25in}
-    {\centering\fontsize{30}{40}{\bfseries{\color{Blue}{\scshape{Chapitre III : Implémentation}}}}}
+    {\centering\fontsize{30}{40}{\bfseries{\color{Black}{\scshape{Chapitre III : Implémentation}}}}}
 \vspace{0.35in}\\
-    {\color{Blue} \rule{\linewidth}{1.2mm} }
+    {\color{Black} \rule{\linewidth}{1.2mm} }
 \end{center}
 \vspace*{\fill}
-\addcontentsline{toc}{chapter}{\color{Blue}{Chapitre III : Implémentation}}
+\addcontentsline{toc}{chapter}{\color{Black}{Chapitre III : Implémentation}}
 \setcounter{section}{0}
 
 \newpage
@@ -1045,13 +1045,13 @@ Le site web est déployé ici : \textcolor{blue}{\uline{\url{https://hotel21.ver
 \vspace*{-0.2in}
 
 \begin{center}
-    {\color{Blue} \rule{5.5in}{1.4mm} }\\
+    {\color{Black} \rule{5.5in}{1.4mm} }\\
     \vspace{0.1in}
-    \scshape{\fontsize{34}{46}{\bfseries{\color{Blue}{Conclusion générale}}}}
+    \scshape{\fontsize{34}{46}{\bfseries{\color{Black}{Conclusion générale}}}}
     \\
     \vspace{0.5in}
 \end{center}
-\addcontentsline{toc}{chapter}{\vspace{-0.12in}\color{Blue}{Conclusion générale}}
+\addcontentsline{toc}{chapter}{\vspace{-0.12in}\color{Black}{Conclusion générale}}
 \hspace*{0.16in}
 Avec l’évolution des technologies de l’information et de communications, on constante chaque jour des milliers d’innovations. A cet effet, beaucoup de chercheurs se sont attelés cette tâche, et proposent des solutions pour l’utilisation.
 \\\\

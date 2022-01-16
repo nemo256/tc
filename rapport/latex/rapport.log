@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  15 JAN 2022 15:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  16 JAN 2022 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1417,23 +1417,23 @@ File: ../images/usecaseEG.png Graphic file (type png)
 Package pdftex.def Info: ../images/usecaseEG.png  used on input line 703.
 (pdftex.def)             Requested size: 216.81514pt x 72.27011pt.
  [12 </home/nemo/Work/tc/rapport/latex/../images/usecaseEG.png (PNG copy)>]
-<../images/usecase.png, id=492, 795.97375pt x 886.31125pt>
+<../images/usecase.png, id=492, 690.58pt x 430.60875pt>
 File: ../images/usecase.png Graphic file (type png)
 <use ../images/usecase.png>
 Package pdftex.def Info: ../images/usecase.png  used on input line 739.
-(pdftex.def)             Requested size: 476.98067pt x 505.89238pt.
+(pdftex.def)             Requested size: 476.98543pt x 505.9062pt.
  [13 </home/nemo/Work/tc/rapport/latex/../images/usecase.png>]
-<../images/components.png, id=499, 1291.82625pt x 490.83376pt>
+<../images/components.png, id=499, 1288.815pt x 482.80376pt>
 File: ../images/components.png Graphic file (type png)
 <use ../images/components.png>
 Package pdftex.def Info: ../images/components.png  used on input line 760.
-(pdftex.def)             Requested size: 549.24557pt x 260.17809pt.
+(pdftex.def)             Requested size: 549.26323pt x 260.17972pt.
  [14 </home/nemo/Work/tc/rapport/latex/../images/components.png>]
-<../images/deployment.png, id=506, 894.34125pt x 476.78125pt>
+<../images/deployment.png, id=506, 762.85pt x 413.545pt>
 File: ../images/deployment.png Graphic file (type png)
 <use ../images/deployment.png>
 Package pdftex.def Info: ../images/deployment.png  used on input line 778.
-(pdftex.def)             Requested size: 476.9872pt x 303.5457pt.
+(pdftex.def)             Requested size: 476.97797pt x 303.53859pt.
  [15 </home/nemo/Work/tc/rapport/latex/../images/deployment.png>] [16]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1641,12 +1641,12 @@ AED: lastpage setting LastPage
 
 ] (/home/nemo/Work/tc/rapport/latex/rapport.aux)
 Package rerunfilecheck Info: File `rapport.out' has not changed.
-(rerunfilecheck)             Checksum: DA48DE35E00F4A3F8AEA507B27CB5C97;9602.
+(rerunfilecheck)             Checksum: 854B3670AAB0D20AAE1B18A737D9DA5C;9627.
  ) 
 Here is how much of TeX's memory you used:
  27055 strings out of 478353
  493643 string characters out of 5854634
- 869259 words of memory out of 5000000
+ 869253 words of memory out of 5000000
  44549 multiletter control sequences out of 15000+600000
  476700 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1657,8 +1657,8 @@ ts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public
 </usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (34 pages, 55465
-91 bytes).
+Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (34 pages, 54780
+75 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  504 compressed objects within 6 object streams

@@ -1,12 +1,12 @@
-\contentsline {part}{\vspace {-0.12in}\color {Blue}{R\IeC {\'e}sum\IeC {\'e}}}{}{figure.caption.1}
-\contentsline {part}{\vspace {-0.12in}\color {Blue}{Abstract}}{}{figure.caption.1}
-\contentsline {part}{\vspace {-0.12in}\color {Blue}{Table des mati\IeC {\`e}res}}{}{figure.caption.1}
-\contentsline {part}{\vspace {-0.12in}\color {Blue}{Liste des figures}}{}{figure.caption.1}
-\contentsline {part}{\vspace {-0.12in}\color {Blue}{Liste des tableaux}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Black}{R\IeC {\'e}sum\IeC {\'e}}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Black}{Abstract}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Black}{Table des mati\IeC {\`e}res}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Black}{Liste des figures}}{}{figure.caption.1}
+\contentsline {part}{\vspace {-0.12in}\color {Black}{Liste des tableaux}}{}{figure.caption.1}
 \renewcommand {\cftsecleader }{\cftdotfill {\cftsecdotsep }}
 \thispagestyle {empty}
-\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Introduction g\IeC {\'e}n\IeC {\'e}rale}}{1}{figure.caption.1}%
-\contentsline {chapter}{\color {Blue}{Chapitre I : \IeC {\'E}tude G\IeC {\'e}n\IeC {\'e}ral}}{2}{figure.caption.1}%
+\contentsline {chapter}{\vspace {-0.12in}\color {Black}{Introduction g\IeC {\'e}n\IeC {\'e}rale}}{1}{figure.caption.1}%
+\contentsline {chapter}{\color {Black}{Chapitre I : \IeC {\'E}tude G\IeC {\'e}n\IeC {\'e}ral}}{2}{figure.caption.1}%
 \contentsline {section}{\numberline {1}Introduction}{3}{section.0.1}%
 \contentsline {section}{\numberline {2}Programmation orient\IeC {\'e}e composants}{3}{section.0.2}%
 \contentsline {subsection}{\numberline {2.1}D\IeC {\'e}finition}{3}{subsection.0.2.1}%
@@ -23,7 +23,7 @@
 \contentsline {subsection}{\numberline {4.2}Pourquoi NextJS\IeC {\nobreakspace }?}{6}{subsection.0.4.2}%
 \contentsline {subsection}{\numberline {4.3}Les caract\IeC {\'e}ristiques de NextJS}{7}{subsection.0.4.3}%
 \contentsline {section}{\numberline {5}Conclusion}{7}{section.0.5}%
-\contentsline {chapter}{\color {Blue}{Chapitre II : Analyse et Conception}}{8}{section.0.5}%
+\contentsline {chapter}{\color {Black}{Chapitre II : Analyse et Conception}}{8}{section.0.5}%
 \contentsline {section}{\numberline {1}Introduction}{9}{section.0.1}%
 \contentsline {section}{\numberline {2}L'objectif}{9}{section.0.2}%
 \contentsline {section}{\numberline {3}Sp\IeC {\'e}cification des besoins}{10}{section.0.3}%
@@ -44,7 +44,7 @@
 \contentsline {subsection}{\numberline {8.1}D\IeC {\'e}finition}{15}{subsection.0.8.1}%
 \contentsline {subsection}{\numberline {8.2}Diagramme de d\IeC {\'e}ploiement}{15}{subsection.0.8.2}%
 \contentsline {section}{\numberline {9}Conclusion}{16}{section.0.9}%
-\contentsline {chapter}{\color {Blue}{Chapitre III : Impl\IeC {\'e}mentation}}{17}{section.0.9}%
+\contentsline {chapter}{\color {Black}{Chapitre III : Impl\IeC {\'e}mentation}}{17}{section.0.9}%
 \contentsline {section}{\numberline {1}Introduction}{18}{section.0.1}%
 \contentsline {section}{\numberline {2}L\IeC {\textquoteright }environnement mat\IeC {\'e}riel}{18}{section.0.2}%
 \contentsline {section}{\numberline {3}L\IeC {\textquoteright }environnement logiciel}{18}{section.0.3}%
@@ -61,5 +61,5 @@
 \contentsline {subsection}{\numberline {4.3}Page contacter-nous}{24}{subsection.0.4.3}%
 \contentsline {subsection}{\numberline {4.4}Les pages Web r\IeC {\'e}actives}{25}{subsection.0.4.4}%
 \contentsline {section}{\numberline {5}Conclusion}{25}{section.0.5}%
-\contentsline {chapter}{\vspace {-0.12in}\color {Blue}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{26}{section.0.5}%
+\contentsline {chapter}{\vspace {-0.12in}\color {Black}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}}{26}{section.0.5}%
 \contentsfinish 
