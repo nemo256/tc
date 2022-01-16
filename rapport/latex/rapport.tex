@@ -664,18 +664,16 @@ Pour mieux concevoir notre application, nous avons besoin d’utiliser les trois
 \vspace{0.1in}
 
 \begin{table}[h]
+\centering
 \begin{tabular}{|l|l|c|}
 \hline
-\rowcolor[HTML]{9B9B9B} 
-\textbf{Diagramme}                                                       & \textbf{Objectifs}                                                                                                                                                                                                                                                                                                                                                                                                                    & \multicolumn{1}{l|}{\cellcolor[HTML]{9B9B9B}\textbf{Type}} \\ \hline
-\rowcolor[HTML]{9698ED} 
-\begin{tabular}[c]{@{}l@{}}Diagramme de cas\\ d'utilisation\end{tabular} & \begin{tabular}[c]{@{}l@{}}1. Identifier la fonctionnalité du système\\ 2. Il décrit l'interaction des personnes \\ ou du dispositif externe avec le système \\ en cours de conception.\\ 3. Il résume les relations entre les cas\\ d'utilisation, les acteurs et les systèmes.\end{tabular}                                                                                                                                         & Fonctionnel                                                \\ \hline
-\rowcolor[HTML]{9698ED} 
-Diagramme de composants                                                  & \begin{tabular}[c]{@{}l@{}}1. Il permet aux concepteurs d'applications\\ de vérifier que les fonctionnalités requises\\ d'un système sont mises en œuvre par les\\ composants, garantissant ainsi que le système\\ final sera acceptable.\\ 2. De plus, le diagramme des composants est un\\ outil de communication utile entre les parties\\ prenantes pour discuter, analyser ou améliorer\\ la conception du système.\end{tabular} & Statique                                                   \\ \hline
-\rowcolor[HTML]{9698ED} 
-Diagramme de déploiement                                                 & \begin{tabular}[c]{@{}l@{}}1. Décrire les composants matériels utilisés\\ dans les implémentations de systèmes ainsi que\\ les environnements d'exécution et les artefacts\\ déployés sur le matériel.\\ 2. Il permet de visualiser le système de\\ topologie du matériel, de modéliser les\\ éléments matériels physiques et la relation\\ de communication entre eux, et de planifier\\ l'architecture du système.\end{tabular}     & Statique                                                   \\ \hline
+\textbf{Diagramme}                                                       & \textbf{Objectifs}                                                                                                                                                                                                                                                                                                                                                                                                                    & \multicolumn{1}{l|}{\textbf{Type}} \\ \hline
+\begin{tabular}[c]{@{}l@{}}Diagramme de cas\\ d'utilisation\end{tabular} & \begin{tabular}[c]{@{}l@{}}1. Identifier la fonctionnalité du système\\ 2. Il décrit l'interaction des personnes \\ ou du dispositif externe avec le système \\ en cours de conception.\\ 3. Il résume les relations entre les cas\\ d'utilisation, les acteurs et les systèmes.\end{tabular}                                                                                                                                         & Fonctionnel                        \\ \hline
+Diagramme de composants                                                  & \begin{tabular}[c]{@{}l@{}}1. Il permet aux concepteurs d'applications\\ de vérifier que les fonctionnalités requises\\ d'un système sont mises en œuvre par les\\ composants, garantissant ainsi que le système\\ final sera acceptable.\\ 2. De plus, le diagramme des composants est un\\ outil de communication utile entre les parties\\ prenantes pour discuter, analyser ou améliorer\\ la conception du système.\end{tabular} & Statique                           \\ \hline
+Diagramme de déploiement                                                 & \begin{tabular}[c]{@{}l@{}}1. Décrire les composants matériels utilisés\\ dans les implémentations de systèmes ainsi que\\ les environnements d'exécution et les artefacts\\ déployés sur le matériel.\\ 2. Il permet de visualiser le système de\\ topologie du matériel, de modéliser les\\ éléments matériels physiques et la relation\\ de communication entre eux, et de planifier\\ l'architecture du système.\end{tabular}     & Statique                           \\ \hline
 \end{tabular}
-\caption{Les diagrammes utilisé}
+\caption{Les diagrammes utilisés}
+\label{tab:my-table}
 \end{table}
 
 \section{Diagramme de Cas d'utilisation}
@@ -733,10 +731,12 @@ Voici quelques cas d’utilisation de notre système :
 
 \subsection{Diagramme de cas d’utilisation général}
 
+\vspace{0.1in}
+
 \begin{figure}[h]
 \centering
   \vspace{-0.1in}
-    \centerline{\fbox{\includegraphics[width = 6.6in, height = 7in]{../images/usecase.png}}}
+    \centerline{\fbox{\includegraphics[width = 6.6in, height = 4in]{../images/usecase.png}}}
     \caption{Diagramme de cas d’utilisation général}
 \end{figure}
 
@@ -775,7 +775,7 @@ Les nœuds apparaissent sous forme de cases et les artefacts alloués à chaque 
 
 \begin{figure}[h]
 \centering
-    \centerline{\fbox{\includegraphics[width = 6.6in, height = 4.2in]{../images/deployment.png}}}
+    \centerline{\fbox{\includegraphics[width = 6.6in, height = 3.8in]{../images/deployment.png}}}
     \caption{Diagramme des composants général}
 \end{figure}
 
@@ -817,24 +817,18 @@ Nous présentons dans cette section l’environnement matériel mis à la dispos
 Pour la réalisation de ce projet, nous avons disposé de 3 ordinateurs caractérisé par :
 
 \vspace{0.1in}
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+
 \begin{table}[h]
 \centering
 \begin{tabular}{|c|l|}
 \hline
-\rowcolor[HTML]{9B9B9B} 
-\textbf{Le matériel} & \multicolumn{1}{c|}{\cellcolor[HTML]{9B9B9B}\textbf{Caractéristiques}}                                                                                                                                                \\ \hline
-\rowcolor[HTML]{9698ED} 
+\textbf{Le matériel} & \multicolumn{1}{c|}{\textbf{Caractéristiques}}                                                                                                                                                                        \\ \hline
 \textbf{PC 1}        & \begin{tabular}[c]{@{}l@{}}Marque : Apple\\ Modèle : Macbook Air (13-inch, Mid 2013)\\ RAM : 4GB 1600MHz LPDDR3\\ CPU : Intel Core i5 1.3GHz dual-core (2.6GHz TB)\\ Système d'exploitation : Arch Linux\end{tabular} \\ \hline
-\rowcolor[HTML]{9698ED} 
 \textbf{PC 2}        & \begin{tabular}[c]{@{}l@{}}Marque : HP\\ Modèle : Pavilion 5\\ RAM : 4GB 1600MHz LPDDR3\\ CPU : Intel Core i5-8250u 1.6GHz quad-core (3.4GHz TB)\\ Système d'exploitation : Windows 10\end{tabular}                   \\ \hline
-\rowcolor[HTML]{9698ED} 
 \textbf{PC 3}        & \begin{tabular}[c]{@{}l@{}}Marque : HP\\ Modèle : Notebook 255 G3\\ RAM : 4GB 1600MHz LPDDR3\\ CPU : AMD E1-6010 1.35GHz APU\\ Système d'exploitation : Windows 10\end{tabular}                                       \\ \hline
 \end{tabular}
-\caption{Le matériel utilisé}
-\label{}
+\caption{L’environnement matériel}
+\label{tab:my-table}
 \end{table}
 
 \section{L’environnement logiciel}
