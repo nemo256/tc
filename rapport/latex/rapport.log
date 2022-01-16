@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  16 JAN 2022 23:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.30)  17 JAN 2022 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1644,10 +1644,10 @@ Package rerunfilecheck Info: File `rapport.out' has not changed.
 (rerunfilecheck)             Checksum: 854B3670AAB0D20AAE1B18A737D9DA5C;9627.
  ) 
 Here is how much of TeX's memory you used:
- 27055 strings out of 478353
- 493655 string characters out of 5854634
- 869259 words of memory out of 5000000
- 44549 multiletter control sequences out of 15000+600000
+ 27054 strings out of 478353
+ 493641 string characters out of 5854634
+ 869198 words of memory out of 5000000
+ 44548 multiletter control sequences out of 15000+600000
  476700 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,80p,949b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1658,7 +1658,7 @@ ts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public
 /fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
 Output written on /home/nemo/Work/tc/rapport/latex/rapport.pdf (34 pages, 54842
-04 bytes).
+20 bytes).
 PDF statistics:
  652 PDF objects out of 1000 (max. 8388607)
  504 compressed objects within 6 object streams
